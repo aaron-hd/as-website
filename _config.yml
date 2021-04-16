@@ -19,9 +19,9 @@ minimal_mistakes_skin    : "default" # "default, "air", "aqua", "contrast", "dar
 locale                   : "en-US"
 title: Asymptotic Safety Seminars
 title_separator: "-"
-subtitle: "An international online seminar series."
+subtitle: "An international online seminar series. Since 2011."
 #email:
-description: An international online seminar series. >- # this means to ignore newlines until "baseurl:"
+description: Asymptotic Safety Seminars. An international online seminar series. Since 2011.>- # this means to ignore newlines until "baseurl:"
 #Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 #twitter_username: username
 #github_username: username

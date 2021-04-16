@@ -5,6 +5,8 @@ main:
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
+  - title: "QG & RG workshops"
+    url: /qgrg/
   - title: "Related Spaces"
     url: /related/
   - title: "About"

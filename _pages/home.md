@@ -15,7 +15,7 @@ excerpt: "An international online seminar series."
 intro: 
   - excerpt: 'Some more description ...'
 feature_row:
-  - image_path: assets/images/fractal.jpg
+  - image_path: assets/images/zoomingIn.png
     image_caption: "a test image caption"
     alt: "placeholder image 1"
     title: "Placeholder 1"
