@@ -12,7 +12,17 @@ In addition, the connection between microphysics and macrophysics that is inhere
 This workshop series therefore has two main goals: Firstly, it provides a platform for Renormalization Group tools and techniques in quantum gravity, with the clear goal to establish a constructive dialogue between different approaches. Secondly, it focuses on the connection of quantum gravity approaches to their phenomenological imprints that can be achieved through Renormalization Group techniques.
 
 * **2014:** [Renormalization Group Approaches to Quantum Gravity](https://www2.perimeterinstitute.ca/conferences/renormalization-group-approaches-quantum-gravity)
+(organized by Bianca Dittrich, Astrid Eichhorn, Daniele Oriti, Roberto Percacci)
+(held at [Perimeter institute](https://perimeterinstitute.ca/))
 * **2015:** [Probing the Fundamental Nature of Spacetime with the Renormalization Group](https://indico.fysik.su.se/event/4464/)
+(organized by Dario Benedetti, Astrid Eichhorn, Frank Saueressig)
+(held at [Nordita](https://www.nordita.org/))
 * **2017:** [Quantum Spacetime and the Renormalization Group](https://www.lorentzcenter.nl/quantum-spacetime-and-the-renormalization-group.html)
+(organized by Dario Benedetti, Astrid Eichhorn, Frank Saueressig)
+(held at [Lorentz center](https://www.lorentzcenter.nl/))
 * **2018:** [674 WE-Heraeus Seminar on "Quantum spacetime and the Renormalization Group" ](https://www.thphys.uni-heidelberg.de/~eichhorn/BadHonnef.html)
+(organized by Dario Benedetti, Astrid Eichhorn, Frank Saueressig)
+(held at [Physikzentrum Bad Honnef](https://www.dpg-physik.de/ueber-uns/physikzentrum-bad-honnef))
 * **2020:** [Quantum spacetime and the Renormalization Group](https://www.cp3-origins.dk/quantum-spacetime-and-the-renormalization-group/)
+(organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig)
+(held online at [CP3 origins](https://www.cp3-origins.dk))
