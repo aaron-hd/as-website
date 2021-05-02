@@ -1,0 +1,5 @@
+---
+title: "Dine Ousmane Samary: Progress in the solving nonperturbative renormalization group for tensorial group field theory"
+---
+
+This presentation aims at giving our new advance on the functional renormalization group applied to tensorial group field theory. It is based on a serie of our three papers [arXiv :1803.09902], [arXiv :1809.00247] and[arXiv :1809.06081]. We consider the polynomial Abelian U(1)^d models without closure constraint, especially we discuss the case of quartic melonic interaction. By using the effective vertex expansion method we studied the Wetterich flow equation and the possible existence or not of the phase transition in the leading order melonic sector. We provide the so called structure equations compactible with the Ward identities. These equations allow a new constraint on the flow i.e. on to the β-functions and the anomalous dimension η. We also show that, by adding in the functional renormalization group program other leading order contribution in the interaction, the physical conclusions such as the non-existence of fixed points for quartic model are not modified.

@@ -1,0 +1,5 @@
+---
+title: "Masatoshi Yamada: Higgs scalar potential in asymptotically safe quantum gravity"
+---
+
+The effect of gravitational fluctuations on the quantum effective potential for scalar fields is a key ingredient for predictions of the mass of the Higgs boson, understanding the gauge hierarchy problem and a possible explanation of an---asymptotically---vanishing cosmological constant. We find that the quartic self-interaction of the Higgs scalar field is an irrelevant coupling at the asymptotically safe ultraviolet fixed point of quantum gravity. This renders the ratio between the masses of the Higgs boson and top quark predictable. If the flow of couplings below the Planck scale is approximated by the Standard Model, this prediction is consistent with the observed value. The quadratic term in the Higgs potential is irrelevant if the strength of gravity at short distances exceeds a bound that is determined here as a function of the particle content. In this event, a tiny value of the ratio between the Fermi scale and the Planck scale is predicted.

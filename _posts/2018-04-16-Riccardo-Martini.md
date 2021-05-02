@@ -1,0 +1,5 @@
+---
+title: "Riccardo Martini: A curvature bound from gravitational catalysis"
+---
+
+Gravitational catalysis expresses an interplay between the curvature of the spacetime and fluctuation-induced mass generation of quantum matter. I will show how a scale-dependent analysis of this phenomenon on local AdS backgrounds allow us to identify bounds on the curvature of local patches of spacetime, based on the requirement of long-range chiral symmetry. The bound will be expressed in terms of the ratio between the local scalar curvature and the gauge-invariant coarse-graining scale, pointing out a dependence of the result on the relevant modes of the observed Physics. I will show how this bound can be applied to constraint quantum gravity theories relying on the specific framework provided by Asymptotic Safety. Some extensions of this result to higher dimensional spacetimes will also be discussed. 

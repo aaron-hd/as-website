@@ -1,0 +1,5 @@
+---
+title: "Manuel Reichert: Dark Matter meets Quantum Gravity"
+---
+
+We search for an extension of the Standard Model that contains a viable dark matter candidate and that can be embedded into a fundamental, asymptotically safe, quantum field theory with quantum gravity. Demanding asymptotic safety leads to boundary conditions for the non-gravitational couplings at the Planck scale. For a given dark matter model these translate into constraints on the mass of the dark matter candidate. We derive constraints on the dark matter mass and couplings in two minimal dark matter models: i) scalar dark matter coupled via the Higgs-portal in the B-L model; ii) fermionic dark matter in a U(1)_X extension of the Standard Model, coupled via the new gauge boson. For scalar dark matter we find 56 GeV <  M_{DM} < 63 GeV, and for fermionic dark matter M_{DM} < 37 TeV.

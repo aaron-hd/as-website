@@ -1,0 +1,5 @@
+---
+title: "Johannes Lumma: Towards background independent quantum gravity with tensor models"
+---
+
+We explore whether the phase diagram of tensor models could feature a pregeometric, discrete and a geometric, continuum phase for the building blocks of space. The latter are associated torank d tensors of size N.  We search for a universal large N scaling limit in a rank-3 model with real tensors that could be linked to a transition between the two phases. We extend the conceptual development and practical implementation of the flow equation for the pregeometric setting. This provides a pregeometric “coarse-graining” by going from many microscopic to few effective degrees of freedom by lowering N. We discover several candidates for fixed points of this coarse graining procedure,  and specifically explore the impact of a novel class of interactions allowed in the real rank-3 model. In particular, we explain how most universality classes feature dimensional reduction, while one candidate, involving a tetrahedral interaction, might potentially be of relevance for three- dimensional quantum gravity.

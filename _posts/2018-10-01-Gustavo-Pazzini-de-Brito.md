@@ -1,0 +1,5 @@
+---
+title: "Gustavo Pazzini de Brito: Asymptotic safety and field parametrization dependence in the f(R) truncation"
+---
+
+We study the dependence on field parametrization in the context of the Asymptotic Safety scenario. The investigation is performed with the f(R)-truncation for the Effective Average Action and the computations are done in the background field approximation. We perform a systematic analysis of the dependence of fixed points and critical exponents in polynomial truncations. We find that, beyond the Einstein-Hilbert truncation, results are qualitatively different depending on the choice of gauge and field parametrization. In particular, we observe that the number of relevant directions may change for different choices of field parametrization. We compare our results with the available literature and analyze how different schemes in the regularization can affect the fixed point structure.

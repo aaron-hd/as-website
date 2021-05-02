@@ -1,0 +1,5 @@
+---
+title: "Yannick Kluth: Fixed Points of Quantum Gravity and the Dimensionality of the UV Critical Surface"
+---
+
+In this talk, the fixed point structure of asymptotically safe quantum gravity is tested for actions containing squares of the Riemann tensor and the Ricci scalar curvature. After explaining the basic setup, I show results of a numerical scan leading to three stable fixed points which have been analysed including up to 144 different curvature invariants. Properties such as UV critical surfaces, convergence and equations of motion are discussed and compared to literature results in asymptotically safe quantum gravity. Moreover, it is shown how eigenvectors can be used as a tool to understand the composition of eigenvalues in terms of curvature monomials by use of a new equal weight condition.

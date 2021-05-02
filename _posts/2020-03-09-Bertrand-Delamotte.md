@@ -1,0 +1,5 @@
+---
+title: "Bertrand Delamotte: Convergence of the derivative expansion and results at order ∂<sup>6</sup>"
+---
+
+The derivative expansion (DE) is the most commonly used approximation scheme of Wilson's renormalization group (RG), at least when it is formulated in terms of the effective action *Γ*<sub>*k*</sub>\[*ϕ*\]. Two main criticisms have been addressed to this functional and nonperturbative formulation of field theory: (i) the fact that it does not seem to be controlled by a small parameter, (ii) the fact that the end results depend on the regulator function that separates the high and low momentum modes. On the example of scalar field theories, I shall argue that point (i) is in fact under control and that the derivative expansion has a small parameter that controls its convergence. As for point (ii), I shall show that the Principle of Minimal Sensitivity allows us to choose "optimal" regulators for which the results at order 4 and 6 of the DE are better than the six-loop results and of the same order of accuracy than those obtained with the best Monte Carlo simulations.
