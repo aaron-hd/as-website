@@ -1,4 +1,442 @@
 var store = [{
+        "title": "Stefan Rechenberger: Causal RG equation for Quantum Einstein Gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2011/03/14/Stefan-Rechenberger.html",
+        "teaser": null
+      },{
+        "title": "Ulrich Harst: QEG Corrections in Yang-Mills-Theories and QED",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2011/03/28/Ulrich-Harst.html",
+        "teaser": null
+      },{
+        "title": "Alberto Tonero: First steps toward an asymptotically safe model of electroweak interactions",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2011/06/06/Alberto-Tonero.html",
+        "teaser": null
+      },{
+        "title": "Astrid Eichhorn: Light fermions in quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2011/07/18/Astrid-Eichhorn.html",
+        "teaser": null
+      },{
+        "title": "Adriano Contillo: Renormalisation group improvement of early times cosmology",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2011/11/21/Adriano-Contillo.html",
+        "teaser": null
+      },{
+        "title": "Frank Saueressig: Fractal space-times under the microscope: a Renormalization Group view on Monte Carlo data",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2011/11/28/Frank-Saueressig.html",
+        "teaser": null
+      },{
+        "title": "Alfio Bonanno: An effective action for asymptotically safe gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/04/02/Alfio-Bonnano.html",
+        "teaser": null
+      },{
+        "title": "Ippocratis Saltas: f(R) gravity from the renormalisation group",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/04/23/Ippocratis-Saltas.html",
+        "teaser": null
+      },{
+        "title": "Jan Pawlowski: The phase diagram of quantum gravity from diffeomorphism-invariant RG-flows",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/06/04/Jan-Pawlowski.html",
+        "teaser": null
+      },{
+        "title": "Dario Benedetti: The Local potential approximation in quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/06/11/Dario-Benedetti.html",
+        "teaser": null
+      },{
+        "title": "Daniel Becker: Running boundary actions, Asymptotic Safety, and black hole thermodynamics",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/06/18/Daniel-Becker.html",
+        "teaser": null
+      },{
+        "title": "Alejandro Satz: Limit cycles and quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/07/09/Alejandro-Satz.html",
+        "teaser": null
+      },{
+        "title": "Pietro Doná: Functional renormalization with fermions and tetrads",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/10/15/Pietro-Dona.html",
+        "teaser": null
+      },{
+        "title": "Andreas Nink: On the physical mechanism underlying asymptotic safety",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/10/29/Andreas-Nink.html",
+        "teaser": null
+      },{
+        "title": "Nicolai Christiansen: Fixed points and infrared completion of quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/11/05/Nicolai-Christiansen.html",
+        "teaser": null
+      },{
+        "title": "Giulio d'Odorico: The renormalization group and Weyl invariance",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2012/11/26/Giulio-dOdorico.html",
+        "teaser": null
+      },{
+        "title": "Jürgen Dietz: Asymptotic safety in the f(R) approximation",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/02/11/Juergen-Dietz.html",
+        "teaser": null
+      },{
+        "title": "Kevin Falls: A coarse-grained model of black hole thermodynamics",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/02/18/Kevin-Falls.html",
+        "teaser": null
+      },{
+        "title": "Konstantinos Nikolakopulos: A bootstrap towards asymptotic safety",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/02/25/Konstantinos-Nikolakopulos.html",
+        "teaser": null
+      },{
+        "title": "Alfio Bonanno: Modulated ground state of gravity  theories with stabilized conformal factor",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/03/11/Alfio-Bonnano.html",
+        "teaser": null
+      },{
+        "title": "Gianluca Calcagni: Probing the quantum nature of spacetime by diffusion",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/05/13/Gianluca-Calcagni.html",
+        "teaser": null
+      },{
+        "title": "Tobias Henz: Dilaton quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/06/13/Tobias-Henz.html",
+        "teaser": null
+      },{
+        "title": "Taotao Qiu: Higgs as curvaton in asymptotic safe gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/06/17/Taotao-Qui.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Koch: Structural aspects of asymptotically safe black holes",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/09/02/Benjamin-Koch.html",
+        "teaser": null
+      },{
+        "title": "Michael Scherer: An asymptotic safety scenario for gauged chiral Higgs-Yukawa models",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/09/09/Michael-Scherer.html",
+        "teaser": null
+      },{
+        "title": "John Donoghue: The effective field theory of general relativity and running couplings",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/10/07/John-Donoghue.html",
+        "teaser": null
+      },{
+        "title": "Omar Zanusso: Perturbation theory and the functional renormalization group",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/10/14/Omar-Zanusso.html",
+        "teaser": null
+      },{
+        "title": "Adriano Contillo: Renormalization group flow of Horava-Lifshitz gravity at low energies",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/11/04/Adriano-Contillo.html",
+        "teaser": null
+      },{
+        "title": "Stefan Lippoldt: Fermions in gravity with local spin-base invariance",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/11/11/Stefan-Lippoldt.html",
+        "teaser": null
+      },{
+        "title": "Tim Koslowski: Asymptotically safe matrix models",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/11/25/Tim-Koslowski.html",
+        "teaser": null
+      },{
+        "title": "Pietro Doná: Matter matters in asymptotically safe gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2013/12/02/Pietro-Dona.html",
+        "teaser": null
+      },{
+        "title": "Filippo Guarnieri: Brans-Dicke theory in the local potential approximation",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/01/13/Filippo-Guarnieri.html",
+        "teaser": null
+      },{
+        "title": "Filippo Guarnieri: One-loop renormalization in a toy model of Horava-Lifshitz gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/02/03/Filippo-Guarnieri.html",
+        "teaser": null
+      },{
+        "title": "Jürgen Dietz: The local potential approximation in the background field formalism",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/02/10/Juergen-Dietz.html",
+        "teaser": null
+      },{
+        "title": "Bianca Dittrich: Coarse graining and renormalization: the bottom up approach",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/04/14/Bianca-Dittrich.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: Global flows in quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/05/19/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Maximilian Demmel: RG flows of Quantum Einstein Gravity on maximally symmetric spaces",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/06/02/Maximilian-Demmel.html",
+        "teaser": null
+      },{
+        "title": "Ippocratis Saltas: Asymptotically safe Starobinsky inflation",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/06/23/Ippocratis-Saltas.html",
+        "teaser": null
+      },{
+        "title": "Daniel Becker: Asymptotic Safety & Background Independence",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/06/30/Daniel-Becker.html",
+        "teaser": null
+      },{
+        "title": "Kevin Falls: Asymptotic Safety and the cosmological constant",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/10/20/Kevin-Falls.html",
+        "teaser": null
+      },{
+        "title": "Christoph Rahmede: Further evidence for asymptotic safety of quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/11/17/Christoph-Rahmede.html",
+        "teaser": null
+      },{
+        "title": "Ippocratis Saltas: Discussing the UV structure of quantum unimodular gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/12/08/Ippocratis-Saltas.html",
+        "teaser": null
+      },{
+        "title": "Daniel Becker: Towards a C-function in quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2014/12/15/Daniel-Becker.html",
+        "teaser": null
+      },{
+        "title": "Natalia Alkofer: Spectral dimension from the spectral action",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/01/12/Natalia-Alkofer.html",
+        "teaser": null
+      },{
+        "title": "Stefan Lippoldt: Global surpluses of spin-base invariant Fermions",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/02/16/Stefan-Lippoldt.html",
+        "teaser": null
+      },{
+        "title": "Sandor Nagy: Asymptotic safety in the Sine-Gordon model",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/02/23/Sandor-Nagy.html",
+        "teaser": null
+      },{
+        "title": "Gian Paolo Vacca: Asymptotic safety and scalar-tensor theories",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/03/09/Gian-Paolo-Vacca.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: Global solutions of functional fixed point equation via pseudo-spectral methods",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/04/13/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Carlo Pagani: Quantum gravity with torsion and non-metricity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/06/29/Carlo-Pagani.html",
+        "teaser": null
+      },{
+        "title": "Maximilian Demmel: A proper fixed functional for four-dimensional Quantum Einstein Gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/09/14/Maximilian-Demmel.html",
+        "teaser": null
+      },{
+        "title": "Andreas Nink: Connections and geodesics in the space of metrics",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/09/28/Andreas-Nink.html",
+        "teaser": null
+      },{
+        "title": "Alessia Platania: Asymptotically Safe inflation from quadratic gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/10/05/Alessia-Platania.html",
+        "teaser": null
+      },{
+        "title": "Stefan Lippoldt: Generalized Parametrization Dependence in Quantum Gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/10/12/Stefan-Lippoldt.html",
+        "teaser": null
+      },{
+        "title": "Zoe Slade: Solutions to the reconstruction problem in asymptotic safety",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/10/19/Zoe-Slade.html",
+        "teaser": null
+      },{
+        "title": "Manuel Reichert: Local Quantum Gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/10/26/Manuel-Reichert.html",
+        "teaser": null
+      },{
+        "title": "David Mesterhazy: A renormalization group approach to multi-field models",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2015/12/14/David-Mesterhazy.html",
+        "teaser": null
+      },{
+        "title": "Manuel Reichert: Asymptotic safety of gravity-matter systems",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/02/01/Manuel-Reichert.html",
+        "teaser": null
+      },{
+        "title": "Masatoshi Yamada: Non-minimal coupling and scalar massin Higgs-Yukawa model with asymptotic safe gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/02/15/Masatoshi-Yamada.html",
+        "teaser": null
+      },{
+        "title": "Anthony Preston: Manifestly diffeomorphism invariant classical Exact Renormalization Group",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/03/14/Anthony-Preston.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: On the two-loop counterterm in Quantum Gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/05/02/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Zoe Slade: Background Independence in a Background Dependent Renormalization Group",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/05/16/Zoe-Slade.html",
+        "teaser": null
+      },{
+        "title": "Aaron Held: Quantum-gravity effects on a Higgs-Yukawa model",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/05/23/Aaron-Held.html",
+        "teaser": null
+      },{
+        "title": "Alessia Platania: Quantum gravity on foliated spacetime: asymptotically safe and sound",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/10/20/Alessia-Platania.html",
+        "teaser": null
+      },{
+        "title": "Tim Morris: Large curvature in single-metric approximations (a conundrum and its solution)",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2016/11/14/Tim-Morris.html",
+        "teaser": null
+      },{
+        "title": "Nicolai Christiansen: The Interplay of Quantum Gravity and Gauge Theories",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/03/20/Nicolai-Christiansen.html",
+        "teaser": null
+      },{
+        "title": "Kevin Falls: Physical renormalization schemes and asymptotic safety in quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/04/03/Kevin-Falls.html",
+        "teaser": null
+      },{
+        "title": "Tobias Denz: Towards apparent convergence in asymptotically safe quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/04/24/Tobias-Denz.html",
+        "teaser": null
+      },{
+        "title": "Aaron Held: Compatibility of quantum gravity and a UV-complete Standard Model",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/10/02/Aaron-Held.html",
+        "teaser": null
+      },{
+        "title": "Stefan Lippoldt: Correlation functions on a curved background",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/10/23/Stefan-Lippoldt.html",
+        "teaser": null
+      },{
+        "title": "Chris Ripken: Catching ghosts - on avoiding Ostrogradski instabilities within asymptotic safety",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/10/30/Chris-Ripken.html",
+        "teaser": null
+      },{
+        "title": "Vedran Skrinjar: Induced scalar interactions in quantum gravity",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/12/04/Vedran-Skrinjar.html",
+        "teaser": null
+      },{
+        "title": "Manuel Reichert: One force to rule them all: Asymptotic safety of gravity with matter",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2017/12/18/Manuel-Reichert.html",
+        "teaser": null
+      },{
+        "title": "Fleur Versteegen: Upper bound on the abelian gauge coupling from asymptotic safety",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2018/01/15/Fleur-Versteegen.html",
+        "teaser": null
+      },{
         "title": "Rodrigo León Ardón: The path integral of unimodular gravity",
         "excerpt":"We compute the one-loop effective action in unimodular gravity, starting from two different classical formulations of the theory. We find that the effective action is the same in both cases, and agrees with the one of General Relativity.  ","categories": [],
         "tags": [],
