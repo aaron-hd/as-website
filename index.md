@@ -32,17 +32,10 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-***Recent past seminars***
+<h1>Upcoming seminars</h1>
 
-<div class="grid__wrapper">
-  {% for post in site.posts limit:4 %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
-<br/>&nbsp;<br/>
+{% include feature_row_future_posts%}
 
----
-
-***The organizers***
+<h1>The organizers</h1>
 
 {% include feature_row %}
