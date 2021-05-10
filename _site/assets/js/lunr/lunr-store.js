@@ -719,12 +719,6 @@ var store = [{
         "url": "/2021/04/12/post-Judah-Unmuth-Yockey.html",
         "teaser": null
       },{
-        "title": "Kamila Kowalska: Implications for g-2 and dark matter from asymptotic safety",
-        "excerpt":"We use the framework of asymptotic safety above the Planck scale to constrain the parameter space of simple models of new physics that can accommodate the measured value of the anomalous magnetic moment of the muon and the relic density of dark matter. The models we consider comprise an inert...","categories": ["future"],
-        "tags": [],
-        "url": "/future/2021/05/10/Kamila-Kowalska.html",
-        "teaser": null
-      },{
         "title": "Abdol Sabor Salek: A curvature bound from gravitational catalysis in thermal backgrounds",
         "excerpt":"preliminary abstract: We investigate the phenomenon of gravitational catalysis, i.e., curvature-induced chiral symmetry breaking and fermion mass generation, at finite temperature. Using a scale-dependent analysis, we derive a thermal bound on the curvature of local patches of spacetime. This bound quantifies regions in parameter space that remain unaffected by gravitational...","categories": ["future"],
         "tags": [],
