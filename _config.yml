@@ -28,6 +28,8 @@ description: Asymptotic Safety Seminars. An international online seminar series.
 # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
+future: true
+
 # Build settings
 #markdown: kramdown
 #remote_theme: mmistakes/minimal-mistakes

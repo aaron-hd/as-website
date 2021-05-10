@@ -718,4 +718,22 @@ var store = [{
         "tags": [],
         "url": "/2021/04/12/post-Judah-Unmuth-Yockey.html",
         "teaser": null
+      },{
+        "title": "Abdol Sabor Salek: A curvature bound from gravitational catalysis in thermal backgrounds",
+        "excerpt":"preliminary abstract: We investigate the phenomenon of gravitational catalysis, i.e., curvature-induced chiral symmetry breaking and fermion mass generation, at finite temperature. Using a scale-dependent analysis, we derive a thermal bound on the curvature of local patches of spacetime. This bound quantifies regions in parameter space that remain unaffected by gravitational...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/05/17/Abdol-Sabor-Salek.html",
+        "teaser": null
+      },{
+        "title": "Adrien Florio: Searching for continuous phase transitions in 5D SU(2) lattice gauge theory",
+        "excerpt":"preliminary abstract: We study the phase diagram of 5-dimensional SU(2)SU(2)SU(2) Yang-Mills theory on the lattice. We consider two extensions of the fundamental plaquette Wilson action in the search for the continuous phase transition suggested by the 4+ϵ4+\\epsilon4+ϵ expansion. The extensions correspond to new terms in the action: i) a unit...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/05/31/Adrien-Florio.html",
+        "teaser": null
+      },{
+        "title": "Alex Mitchell-Lister: The continuum limit of quantum gravity at second order in perturbation theory",
+        "excerpt":"preliminary abstract: We show that perturbative quantum gravity based on the Einstein–Hilbert action, has a novel continuum limit. The renormalized trajectory emanates from the Gaussian fixed point along (marginally) relevant directions but enters the diffeomorphism invariant subspace only well below a dynamically generated scale. We show that for pure quantum...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/06/07/Alex-Mitchell-Lister.html",
+        "teaser": null
       }]
