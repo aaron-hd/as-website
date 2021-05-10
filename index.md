@@ -27,7 +27,7 @@ feature_row:
     excerpt: "Aaron works on phenomenological constraints in quantum and classical effective field theories of gravity. Currently Royal Society Newton International Fellow at Imperial College London."
   - image_path: /assets/images/marc.png
     title: "Marc Schiffer"
-    excerpt: "Marc works on ..."
+    excerpt: "Marc works asymptotically safe gravity-matter systems using functional and lattice methods. Currently PhD student at Heidelberg University."
 ---
 
 {% include feature_row id="intro" type="center" %}
