@@ -1,6 +1,6 @@
 ---
 permalink: /related/
-title: "Related Spaces"
+title: "Related spaces"
 classes: wide
 ---
 
