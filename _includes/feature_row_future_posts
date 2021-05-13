@@ -22,9 +22,17 @@
         {% endif %}
 
         <div class="archive__item-body">
-          {% if f.title %}
-            <h3 class="archive__item-title">{{ f.title}}</h3>
-          {% endif %}
+		<h3 class="archive__item-title no_toc" itemprop="headline">
+      			{% if f.link %}
+        			<a href="{{ f.link }}">{{ f.title }}</a> 
+				<a href="{{ f.url | relative_url }}" rel="permalink">
+					<i class="fas fa-link" aria-hidden="true" title="permalink"></i>
+					<span class="sr-only">Permalink</span>
+				</a>
+      			{% else %}
+        			<a href="{{ f.url | relative_url }}" rel="permalink">{{ f.title }}</a>
+      			{% endif %}
+    		</h3>
 
           {% if f.date %}
 		<br>
@@ -44,10 +52,14 @@
             </div>
           {% endif %}
 
+	<!--
           {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
+	-->
+
         </div>
+	<br>
       </div>
     </div>
   {% endfor %}

@@ -720,7 +720,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Abdol Sabor Salek: A curvature bound from gravitational catalysis in thermal backgrounds",
-        "excerpt":"preliminary abstract: We investigate the phenomenon of gravitational catalysis, i.e., curvature-induced chiral symmetry breaking and fermion mass generation, at finite temperature. Using a scale-dependent analysis, we derive a thermal bound on the curvature of local patches of spacetime. This bound quantifies regions in parameter space that remain unaffected by gravitational...","categories": ["future"],
+        "excerpt":"A suitable candidate for a UV-complete quantum theory of gravity needs to be compatible with the existence of chiral fermions. Studies of quantum fields in curved spacetime have shown that an external, gravitational background field with negative curvature spontaneously breaks chiral symmetry and leads to the existence of massive fermions...","categories": ["future"],
         "tags": [],
         "url": "/future/2021/05/17/Abdol-Sabor-Salek.html",
         "teaser": null
