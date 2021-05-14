@@ -726,7 +726,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Adrien Florio: Searching for continuous phase transitions in 5D SU(2) lattice gauge theory",
-        "excerpt":"preliminary abstract: We study the phase diagram of 5-dimensional SU(2)SU(2)SU(2) Yang-Mills theory on the lattice. We consider two extensions of the fundamental plaquette Wilson action in the search for the continuous phase transition suggested by the 4+ϵ4+\\epsilon4+ϵ expansion. The extensions correspond to new terms in the action: i) a unit...","categories": ["future"],
+        "excerpt":"preliminary abstract: We study the phase diagram of 5-dimensional SU(2) Yang-Mills theory on the lattice. We consider two extensions of the fundamental plaquette Wilson action in the search for the continuous phase transition suggested by the 4 + ϵ expansion. The extensions correspond to new terms in the action: i) a unit...","categories": ["future"],
         "tags": [],
         "url": "/future/2021/05/31/Adrien-Florio.html",
         "teaser": null
