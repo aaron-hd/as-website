@@ -1,7 +1,5 @@
 ---
 title: "Alex Mitchell-Lister: The continuum limit of quantum gravity at second order in perturbation theory"
-published: "true"
-category: "future"
 ---
 
 preliminary abstract:

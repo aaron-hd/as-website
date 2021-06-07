@@ -1,5 +1,5 @@
 ---
-title: "Tobias Denz: Reconstructing the graviton <br/><br/><br/>
+title: "Tobias Denz: Reconstructing the graviton <br/><br/>
 
 "
 published: "true"
