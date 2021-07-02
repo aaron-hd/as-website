@@ -720,20 +720,32 @@ var store = [{
         "teaser": null
       },{
         "title": "Abdol Sabor Salek: A curvature bound from gravitational catalysis in thermal backgrounds",
-        "excerpt":"A suitable candidate for a UV-complete quantum theory of gravity needs to be compatible with the existence of chiral fermions. Studies of quantum fields in curved spacetime have shown that an external, gravitational background field with negative curvature spontaneously breaks chiral symmetry and leads to the existence of massive fermions...","categories": ["future"],
+        "excerpt":"A suitable candidate for a UV-complete quantum theory of gravity needs to be compatible with the existence of chiral fermions. Studies of quantum fields in curved spacetime have shown that an external, gravitational background field with negative curvature spontaneously breaks chiral symmetry and leads to the existence of massive fermions...","categories": [],
         "tags": [],
-        "url": "/future/2021/05/17/Abdol-Sabor-Salek.html",
+        "url": "/2021/05/17/Abdol-Sabor-Salek.html",
         "teaser": null
       },{
         "title": "Adrien Florio: Searching for continuous phase transitions in 5D SU(2) lattice gauge theory",
-        "excerpt":"preliminary abstract: We study the phase diagram of 5-dimensional SU(2) Yang-Mills theory on the lattice. We consider two extensions of the fundamental plaquette Wilson action in the search for the continuous phase transition suggested by the 4 + ϵ expansion. The extensions correspond to new terms in the action: i) a unit...","categories": ["future"],
+        "excerpt":"We study the phase diagram of 5-dimensional SU(2) Yang-Mills theory on the lattice. We consider two extensions of the fundamental plaquette Wilson action in the search for the continuous phase transition suggested by the 4 + ϵ expansion. The extensions correspond to new terms in the action: i) a unit size plaquette...","categories": [],
         "tags": [],
-        "url": "/future/2021/05/31/Adrien-Florio.html",
+        "url": "/2021/05/31/Adrien-Florio.html",
         "teaser": null
       },{
-        "title": "Alex Mitchell-Lister: The continuum limit of quantum gravity at second order in perturbation theory",
-        "excerpt":"preliminary abstract: We show that perturbative quantum gravity based on the Einstein–Hilbert action, has a novel continuum limit. The renormalized trajectory emanates from the Gaussian fixed point along (marginally) relevant directions but enters the diffeomorphism invariant subspace only well below a dynamically generated scale. We show that for pure quantum...","categories": ["future"],
+        "title": "Alex Mitchell-Lister: A continuum limit of quantum gravity at second order in perturbation theory",
+        "excerpt":"In this talk we discuss the most recent step in an approach to finding the continuum limit of quantum gravity using the exact renormalization group and the conformal instability of general relativity. We outline the broad structure behind a novel operator which acts as a portal for this new approach...","categories": [],
         "tags": [],
-        "url": "/future/2021/06/07/Alex-Mitchell-Lister.html",
+        "url": "/2021/06/07/Alex-Mitchell-Lister.html",
+        "teaser": null
+      },{
+        "title": "Ivano Basile: String Tension between de Sitter vacua and Curvature Corrections",
+        "excerpt":"Preliminary abstract: Higher-derivative corrections to cosmological effective actions in string theory are largely constrained by T-duality, but have been computed hitherto only to the first few orders in the string scale α′. The functional renormalization group, in conjunction with the strong constraints imposed by T-duality, allows to derive cosmological effective...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/06/14/Ivano-Basile.html",
+        "teaser": null
+      },{
+        "title": "Tobias Denz: Reconstructing the graviton <br/><br/>\n",
+        "excerpt":"Preliminary abstract: We reconstruct the Lorentzian graviton propagator in asymptotically safe quantum gravity from Euclidean data. The reconstruction is applied to both the dynamical fluctuation graviton and the background graviton propagator. We prove that the spectral function of the latter necessarily has negative parts similar to, and for the same...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/06/21/Tobias-Denz.html",
         "teaser": null
       }]
