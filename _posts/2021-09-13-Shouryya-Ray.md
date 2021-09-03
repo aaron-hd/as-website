@@ -1,5 +1,0 @@
----
-title: "Shouryya Ray: "
----
-
-TBA
