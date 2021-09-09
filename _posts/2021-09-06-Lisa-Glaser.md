@@ -1,7 +1,5 @@
 ---
 title: "Lisa Glaser: Ising Spins and Causal Sets"
-published: "true"
-category: "future"
 ---
 
 Causal sets are a theory that encodes space-time through the causal relations between events. This leads to a fundamentally Lorentzian, discrete, formulation, in which space-time is reduced to partial orders.
