@@ -1,5 +1,5 @@
 ---
-title: "Alessio Baldazzi: Essential Quantum Einstein Gravity"
+title: "Kevin Falls: Essential Quantum Einstein Gravity"
 published: "true"
 category: "future"
 ---
