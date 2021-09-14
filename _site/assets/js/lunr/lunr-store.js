@@ -738,14 +738,50 @@ var store = [{
         "teaser": null
       },{
         "title": "Ivano Basile: String Tension between de Sitter vacua and Curvature Corrections",
-        "excerpt":"Preliminary abstract: Higher-derivative corrections to cosmological effective actions in string theory are largely constrained by T-duality, but have been computed hitherto only to the first few orders in the string scale α′. The functional renormalization group, in conjunction with the strong constraints imposed by T-duality, allows to derive cosmological effective...","categories": ["future"],
+        "excerpt":"Higher-derivative corrections to cosmological effective actions in string theory are largely constrained by T-duality, but have been computed hitherto only to the first few orders in the string scale α′. The functional renormalization group, in conjunction with the strong constraints imposed by T-duality, allows to derive cosmological effective actions to...","categories": [],
         "tags": [],
-        "url": "/future/2021/06/14/Ivano-Basile.html",
+        "url": "/2021/06/14/Ivano-Basile.html",
         "teaser": null
       },{
-        "title": "Tobias Denz: Reconstructing the graviton <br/><br/>\n",
-        "excerpt":"Preliminary abstract: We reconstruct the Lorentzian graviton propagator in asymptotically safe quantum gravity from Euclidean data. The reconstruction is applied to both the dynamical fluctuation graviton and the background graviton propagator. We prove that the spectral function of the latter necessarily has negative parts similar to, and for the same...","categories": ["future"],
+        "title": "Tobias Denz: Reconstructing the graviton",
+        "excerpt":"We reconstruct the Lorentzian graviton propagator in asymptotically safe quantum gravity from Euclidean data. The reconstruction is applied to both the dynamical fluctuation graviton and the background graviton propagator. We prove that the spectral function of the latter necessarily has negative parts similar to, and for the same reasons, as...","categories": [],
         "tags": [],
-        "url": "/future/2021/06/21/Tobias-Denz.html",
+        "url": "/2021/06/21/Tobias-Denz.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: The derivative expansion in asymptotically safe quantum gravity: general setup and quartic order",
+        "excerpt":"We present a general framework to systematically study the derivative expansion of asymptotically safe quantum gravity. It is based on an exact decoupling and cancellation of different modes in the Landau limit, and implements a correct mode count as well as a regularisation based on geometrical considerations. It is applicable...","categories": [],
+        "tags": [],
+        "url": "/2021/07/05/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Lisa Glaser: Ising Spins and Causal Sets",
+        "excerpt":"Causal sets are a theory that encodes space-time through the causal relations between events. This leads to a fundamentally Lorentzian, discrete, formulation, in which space-time is reduced to partial orders. One possible way to quantize causal sets, is to calculate the path integral over these partial orders. This can either...","categories": [],
+        "tags": [],
+        "url": "/2021/09/06/Lisa-Glaser.html",
+        "teaser": null
+      },{
+        "title": "Shouryya Ray: Towards a Higgs Mass Determination in Asymptotically Safe Gravity with a Dark Portal",
+        "excerpt":"There are reasons to believe that extensions to the Standard Model that tend to lower the Higgs mass are phenomenologically attractive. (For one thing, it would allow to accommodate a more stable electroweak vacuum.) Such extensions, however, usually come with a significantly enlarged number of free parameters, and a concomitant...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/09/13/Shouryya-Ray.html",
+        "teaser": null
+      },{
+        "title": "Focus Seminar: Black Holes in Asymptotic Safety (Frank Saueressig & Aaron Held)",
+        "excerpt":"Black holes are vital for a consistent description of gravitational wave events as well as the recent image of the Event Horizon Telescope. However, black holes also harbor a singularity and are thus theoretically incomplete. Presented with this exciting dichotomy, asymptotically safe quantum gravity may offer a theoretical mechanism for...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/09/20/focus-seminar_black-holes-in-asymptotic-safety.html",
+        "teaser": null
+      },{
+        "title": "Alessio Baldazzi: Essential renormalization group",
+        "excerpt":"We use the generalised flow of the Effective average action which incorporates field redefinitions along the RG flow. This equation allows for the implementation of essential schemes, i.e. schemes where one can fix the value of inessential couplings. From the practical point of view, this produces simplifications in practical calculations,...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/10/11/Alessio-Baldazzi.html",
+        "teaser": null
+      },{
+        "title": "Kevin Falls: Essential Quantum Einstein Gravity",
+        "excerpt":"The non-perturbative renormalisation of quantum gravity is investigated allowing for the metric to be reparameterised along the RG flow, such that only the essential couplings constants are renormalised. This allows us to identify a universality class of quantum gravity which is guaranteed to be unitary, since the physical degrees of...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2021/10/18/Kevin-Falls.html",
         "teaser": null
       }]
