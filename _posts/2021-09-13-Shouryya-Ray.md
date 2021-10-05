@@ -1,7 +1,5 @@
 ---
 title: "Shouryya Ray: Towards a Higgs Mass Determination in Asymptotically Safe Gravity with a Dark Portal"
-published: "true"
-category: "future"
 ---
 
 There are reasons to believe that extensions to the Standard Model that tend to lower the Higgs mass are phenomenologically attractive. (For one thing, it would allow to accommodate a more stable electroweak vacuum.) Such extensions, however, usually come with a significantly enlarged number of free parameters, and a concomitant reduction of predictivity. In this talk, I shall present our efforts to leverage the enhanced predictive power of asymptotic safety to constrain the Higgs mass in a toy Standard Model (more precisely, a Yukawa system representing the top quark and the radial mode of the Higgs) coupled to dark matter (itself represented by another Yukawa system) via a portal. Time permitting, I shall also speculate on how asymptotically safe Yukawa systems might emerge at terrestrial scales, in systems more immediately accessible to experiment.
