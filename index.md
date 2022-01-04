@@ -26,7 +26,7 @@ feature_row:
     excerpt: "Aaron works on phenomenological constraints in quantum and classical effective field theories of gravity. Currently, Royal Society Newton International Fellow at Imperial College London."
   - image_path: /assets/images/marc.png
     title: "Marc Schiffer"
-    excerpt: "Marc works on asymptotically safe gravity-matter systems using functional and lattice methods. Currently PhD student at Heidelberg University."
+    excerpt: "Marc works on asymptotically safe gravity-matter systems using functional and lattice methods. Currently, Postdoctoral researcher at Perimeter Institute."
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -37,6 +37,6 @@ feature_row:
 
 <h1>The organizers</h1>
 
-If you are interested in attending the seminars and joining the community, please contact [Aaron Held](mailto:a.held@imperial.ac.uk) or [Marc Schiffer](mailto:schiffer@thphys.uni-heidelberg.de) to join the corresponding mailing list.
+If you are interested in attending the seminars and joining the community, please contact [Aaron Held](mailto:a.held@imperial.ac.uk) or [Marc Schiffer](mailto:mschiffer@perimeterinstitute.ca) to join the corresponding mailing list.
 
 {% include feature_row %}
