@@ -13,8 +13,9 @@ In this focus seminar on “The graviton propagator in Asymptotic Safety”, we 
 
 **Benjamin Knorr: Non-Perturbative Propagators in Quantum Gravity**
 
-**Alessia Platania: Non-perturbative unitarity and fictitious ghosts in quantum gravity**\
-and\
+**Alessia Platania: Non-perturbative unitarity and fictitious ghosts in quantum gravity**
+<br/><br/>
+and
 
 **Manuel Reichert: Reconstructing the graviton**
 
