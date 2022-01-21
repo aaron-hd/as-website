@@ -6,9 +6,9 @@
 
 <div class="feature__wrapper">
 
-{% assign posts = site.categories.["future"] | sort: 'date' | limit: 3%}
+{% assign posts = site.categories.["future"] | sort: 'date' | limit: 10%}
 
-  {% for f in posts limit:3 %}
+  {% for f in posts limit:10 %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
