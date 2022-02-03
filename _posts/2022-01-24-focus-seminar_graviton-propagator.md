@@ -1,7 +1,6 @@
 ---
 title: "Focus Seminar: The graviton propagator in Asymptotic Safety (Benjamin Knorr, Alessia Platania, and Manuel Reichert)"
 published: "true"
-category: "future"
 ---
 
 The propagator stores important information about the causality and unitarity of a theory, and is related to the spectral function, if it exists. Studying the propagator could provide crucial steps towards answering whether asymptotically safe quantum gravity can provide a unitary theory of quantum gravity.  
