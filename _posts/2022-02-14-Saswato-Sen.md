@@ -1,7 +1,5 @@
 ---
 title: "Saswato Sen: Asymptotic safety and freedom in higher derivative gravity"
-published: "true"
-category: "future"
 ---
 
 We compute non-perturbative flow equations for the couplings of quantum gravity in fourth order of a derivative expansion. The gauge invariant functional flow equation for arbitrary metrics allows us to extract β-functions for all couplings. In our truncation we find two fixed points. One corresponds to asymptotically free higher derivative gravity, the other is an extension of the asymptotically safe fixed point in the Einstein-Hilbert truncation or extensions thereof. The infrared limit of the flow equations entails only unobservably small modifications of Einstein gravity coupled to a scalar field. Quantum gravity can be asymptotically free, based on a flow trajectory from the corresponding ultraviolet fixed point to the infrared region. This flow can also be realized by a scaling solution for varying values of a scalar field. As an alternative possibility, quantum gravity can be realized by asymptotic safety at the other fixed point. There may exist a critical trajectory between the two fixed points, starting in the extreme ultraviolet from asymptotic freedom. We compute critical exponents and determine the number of relevant parameters for the two fixed points. Evaluating the flow equation for constant scalar fields yields the universal gravitational contribution to the effective potential for the scalar.
