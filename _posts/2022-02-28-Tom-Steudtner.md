@@ -1,7 +1,6 @@
 ---
 title: "Tom Steudtner:  Explaining B-Anomalies with safe Z' extensions"
 published: "true"
-category: "future"
 ---
 
 U(1)' extensions of the SM with generation-dependent couplings to quarks and leptons are a popular explanation of anomalies in rare B-decays, such as the R_K and R_K* observables. However, a critical issue with such models is often ignored -- most configurations feature a Landau pole in the new gauge coupling that is well below the Planck scale. In this talk, I will present an ansatz that avoids such Landau poles, stabilises the Higgs potential and remains well-behaved and predictive up to the Planck scale.  To these ends, we introduce three generations of vector-like standard model singlet fermions, an enlarged, flavourful scalar sector, and, possibly, right-handed neutrinos, all suitably charged under the U(1)′ gauge interaction. We identify several benchmark models consistent with theory as well as phenomenological constraints and their respective predictions of Wilson coefficients for a global b→s fit. We further investigate the complete two-loop running of gauge, Yukawa and quartic couplings up to the Planck scale to constrain low-energy parameters and map out the BSM critical surface. Moreover, some key phenomenological aspects are highlighted.
