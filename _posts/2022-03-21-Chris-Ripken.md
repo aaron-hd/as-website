@@ -1,7 +1,6 @@
 ---
 title: "Chris Ripken:  De Sitter scattering amplitudes in the Born approximation"
 published: "true"
-category: "future"
 ---
 
 A basic calculation in QFT is the construction of the Yukawa potential from a tree-level scattering amplitude. In the massless limit, this reproduces the 1/r potential. For gravity, scattering mediated by a massless graviton is thus consistent with the Newtonian potential.

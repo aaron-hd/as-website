@@ -1,7 +1,6 @@
 ---
 title: "Renata Ferrero:  Relational Observables in Asymptotically Safe Gravity"
 published: "true"
-category: "future"
 ---
 
 One of the greatest issues for a quantum theory of gravitation is how to generalise the notion of local observable quantities. A viable approach is to construct a physical local reference frame and give physical meaning to the components of any tensor evaluated in this frame: all measurements of tensor or scalar fields can be thought of as relational observables.
