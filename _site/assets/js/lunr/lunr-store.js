@@ -762,26 +762,122 @@ var store = [{
         "teaser": null
       },{
         "title": "Shouryya Ray: Towards a Higgs Mass Determination in Asymptotically Safe Gravity with a Dark Portal",
-        "excerpt":"There are reasons to believe that extensions to the Standard Model that tend to lower the Higgs mass are phenomenologically attractive. (For one thing, it would allow to accommodate a more stable electroweak vacuum.) Such extensions, however, usually come with a significantly enlarged number of free parameters, and a concomitant...","categories": ["future"],
+        "excerpt":"There are reasons to believe that extensions to the Standard Model that tend to lower the Higgs mass are phenomenologically attractive. (For one thing, it would allow to accommodate a more stable electroweak vacuum.) Such extensions, however, usually come with a significantly enlarged number of free parameters, and a concomitant...","categories": [],
         "tags": [],
-        "url": "/future/2021/09/13/Shouryya-Ray.html",
+        "url": "/2021/09/13/Shouryya-Ray.html",
         "teaser": null
       },{
         "title": "Focus Seminar: Black Holes in Asymptotic Safety (Frank Saueressig & Aaron Held)",
-        "excerpt":"Black holes are vital for a consistent description of gravitational wave events as well as the recent image of the Event Horizon Telescope. However, black holes also harbor a singularity and are thus theoretically incomplete. Presented with this exciting dichotomy, asymptotically safe quantum gravity may offer a theoretical mechanism for...","categories": ["future"],
+        "excerpt":"Black holes are vital for a consistent description of gravitational wave events as well as the recent image of the Event Horizon Telescope. However, black holes also harbor a singularity and are thus theoretically incomplete. Presented with this exciting dichotomy, asymptotically safe quantum gravity may offer a theoretical mechanism for...","categories": [],
         "tags": [],
-        "url": "/future/2021/09/20/focus-seminar_black-holes-in-asymptotic-safety.html",
+        "url": "/2021/09/20/focus-seminar_black-holes-in-asymptotic-safety.html",
         "teaser": null
       },{
         "title": "Alessio Baldazzi: Essential renormalization group",
-        "excerpt":"We use the generalised flow of the Effective average action which incorporates field redefinitions along the RG flow. This equation allows for the implementation of essential schemes, i.e. schemes where one can fix the value of inessential couplings. From the practical point of view, this produces simplifications in practical calculations,...","categories": ["future"],
+        "excerpt":"We use the generalised flow of the Effective average action which incorporates field redefinitions along the RG flow. This equation allows for the implementation of essential schemes, i.e. schemes where one can fix the value of inessential couplings. From the practical point of view, this produces simplifications in practical calculations,...","categories": [],
         "tags": [],
-        "url": "/future/2021/10/11/Alessio-Baldazzi.html",
+        "url": "/2021/10/11/Alessio-Baldazzi.html",
         "teaser": null
       },{
         "title": "Kevin Falls: Essential Quantum Einstein Gravity",
-        "excerpt":"The non-perturbative renormalisation of quantum gravity is investigated allowing for the metric to be reparameterised along the RG flow, such that only the essential couplings constants are renormalised. This allows us to identify a universality class of quantum gravity which is guaranteed to be unitary, since the physical degrees of...","categories": ["future"],
+        "excerpt":"The non-perturbative renormalisation of quantum gravity is investigated allowing for the metric to be reparameterised along the RG flow, such that only the essential couplings constants are renormalised. This allows us to identify a universality class of quantum gravity which is guaranteed to be unitary, since the physical degrees of...","categories": [],
         "tags": [],
-        "url": "/future/2021/10/18/Kevin-Falls.html",
+        "url": "/2021/10/25/Kevin-Falls.html",
+        "teaser": null
+      },{
+        "title": "Rafael Robson Lino dos Santos: The weak-gravity bound and the need for spin in asymptotically safe matter-gravity models",
+        "excerpt":"In this talk, we introduce the weak-gravity bound for scalar-gravity systems within the asymptotic-safety paradigm. The weak-gravity bound arises when gravitational fluctuations exceed a critical strength. Beyond this critical strength, gravitational fluctuations can generate complex fixed-point values in higher-order scalar interactions. Asymptotic safety can thus only be realized at sufficiently...","categories": [],
+        "tags": [],
+        "url": "/2021/12/13/Rafael-Robson-Lino-dos-Santos.html",
+        "teaser": null
+      },{
+        "title": "Kamila Kowalska: Implications for g-2 and dark matter from asymptotic safety",
+        "excerpt":"We use the framework of asymptotic safety above the Planck scale to constrain the parameter space of simple models of new physics that can accommodate the measured value of the anomalous magnetic moment of the muon and the relic density of dark matter. The models we consider comprise an inert...","categories": [],
+        "tags": [],
+        "url": "/2022/01/17/Kamila-Kowalska.html",
+        "teaser": null
+      },{
+        "title": "Focus Seminar: The graviton propagator in Asymptotic Safety (Benjamin Knorr, Alessia Platania, and Manuel Reichert)",
+        "excerpt":"The propagator stores important information about the causality and unitarity of a theory, and is related to the spectral function, if it exists. Studying the propagator could provide crucial steps towards answering whether asymptotically safe quantum gravity can provide a unitary theory of quantum gravity. This focus seminar presents some...","categories": [],
+        "tags": [],
+        "url": "/2022/01/24/focus-seminar_graviton-propagator.html",
+        "teaser": null
+      },{
+        "title": "Manuel Reichert: Lorentzian quantum gravity and the graviton spectral function",
+        "excerpt":"We present the first direct and non-perturbative computation of the graviton spectral function in quantum gravity. This is achieved with the help of a novel Lorentzian renormalisation group approach, combined with a spectral representation of correlation functions. We find a positive graviton spectral function, showing a massless one-graviton peak and...","categories": [],
+        "tags": [],
+        "url": "/2022/02/07/Manuel-Reichert.html",
+        "teaser": null
+      },{
+        "title": "Saswato Sen: Asymptotic safety and freedom in higher derivative gravity",
+        "excerpt":"We compute non-perturbative flow equations for the couplings of quantum gravity in fourth order of a derivative expansion. The gauge invariant functional flow equation for arbitrary metrics allows us to extract β-functions for all couplings. In our truncation we find two fixed points. One corresponds to asymptotically free higher derivative...","categories": [],
+        "tags": [],
+        "url": "/2022/02/14/Saswato-Sen.html",
+        "teaser": null
+      },{
+        "title": "Jian Wang : Scalar-tensor theories within asymptotic safety",
+        "excerpt":"In this work we use the Wetterich equation for the effective average action to investigate the RG flow of gravity supplemented by a real scalar field. We give a non-perturbative proof that the subspace of interactions respecting the global shift-symmetry of the scalar kinetic term is closed under RG transformations....","categories": [],
+        "tags": [],
+        "url": "/2022/02/21/Jian-Wang.html",
+        "teaser": null
+      },{
+        "title": "Tom Steudtner:  Explaining B-Anomalies with safe Z' extensions",
+        "excerpt":"U(1)’ extensions of the SM with generation-dependent couplings to quarks and leptons are a popular explanation of anomalies in rare B-decays, such as the R_K and R_K* observables. However, a critical issue with such models is often ignored – most configurations feature a Landau pole in the new gauge coupling...","categories": [],
+        "tags": [],
+        "url": "/2022/02/28/Tom-Steudtner.html",
+        "teaser": null
+      },{
+        "title": "Dalius Stulga: Provable properties of asymptotic safety in the f(R) approximation",
+        "excerpt":"In this talk I will describe how we can derive general properties of the fixed-point solutions to the flow equations in the f(R) approximation using a family of non-adaptive cutoffs. The full f(R) approximation results in complicated differential equations and makes analysis very difficult. However, progress can be made using...","categories": [],
+        "tags": [],
+        "url": "/2022/03/07/Dalius-Stulga.html",
+        "teaser": null
+      },{
+        "title": "Renata Ferrero:  Relational Observables in Asymptotically Safe Gravity",
+        "excerpt":"One of the greatest issues for a quantum theory of gravitation is how to generalise the notion of local observable quantities. A viable approach is to construct a physical local reference frame and give physical meaning to the components of any tensor evaluated in this frame: all measurements of tensor...","categories": [],
+        "tags": [],
+        "url": "/2022/03/14/Renata-Ferrero.html",
+        "teaser": null
+      },{
+        "title": "Chris Ripken:  De Sitter scattering amplitudes in the Born approximation",
+        "excerpt":"A basic calculation in QFT is the construction of the Yukawa potential from a tree-level scattering amplitude. In the massless limit, this reproduces the 1/r potential. For gravity, scattering mediated by a massless graviton is thus consistent with the Newtonian potential. In de Sitter spacetime, the cosmological constant gives rise...","categories": [],
+        "tags": [],
+        "url": "/2022/03/21/Chris-Ripken.html",
+        "teaser": null
+      },{
+        "title": "Rudrajit Banerjee: The spatial Functional Renormalization Group and Hadamard states on cosmological spacetimes",
+        "excerpt":"A spatial variant of the Functional Renormalization Group (FRG) is introduced on (Lorentzian signature) globally hyperbolic spacetimes. Through its perturbative expansion it is argued that such a FRG must inevitably be state dependent and that it should be based on a Hadamard state. A concrete implementation is presented for scalar...","categories": [],
+        "tags": [],
+        "url": "/2022/03/28/Rudrajit-Banerjee.html",
+        "teaser": null
+      },{
+        "title": "Christof Wetterich: The quantum gravity connection between inflation and quintessence",
+        "excerpt":"The scaling solution of the functional flow in dilaton quantum gravity leads to highly predictive cosmology. Inflation and quintessence can both be described by a single scalar field. The cosmic time evolution of this cosmon field realizes a crossover from the region of an ultraviolet fixed point in the infinite...","categories": [],
+        "tags": [],
+        "url": "/2022/04/11/Christof-Wetterich.html",
+        "teaser": null
+      },{
+        "title": "Gustavo de Brito: Nonvanishing gravitational contribution to matter beta functions for vanishing dimensionful regulators",
+        "excerpt":"In this talk, I will explore the effect of quantum gravity on matter couplings within a Renormalization Group framework. In particular, I will focus on results obtained from a class of interpolating regulators that allow us to extract certain universal pieces from non-universal quantities. I will discuss an explicit example...","categories": [],
+        "tags": [],
+        "url": "/2022/04/25/Gustavo-de-Brito.html",
+        "teaser": null
+      },{
+        "title": "Edoardo D'Angelo: Wetterich equation on lorentzian manifolds",
+        "excerpt":"The Wetterich equation governs the renormalization flow of the effective action under the scaling of an IR cutoff. In this talk, I introduce a generalization of the Wetterich approach to scalar field theories in generic, Hadamard states on globally hyperbolic, Lorentzian spacetimes, using techniques developed in the perturbative Algebraic Quantum...","categories": [],
+        "tags": [],
+        "url": "/2022/05/02/Edoardo-D'Angelo.html",
+        "teaser": null
+      },{
+        "title": "Maximilian Becker: Background Independent Field Quantization with Sequences of Gravity-Coupled Approximants",
+        "excerpt":"We apply the new quantization scheme outlined in M. Becker and M. Reuter, Phys. Rev. D 102, 125001 (2020), to explore the influence which quantum vacuum fluctuations of the spacetime metric exert on the universes of quantum Einstein gravity, which is regarded an effective theory here. The scheme promotes the...","categories": [],
+        "tags": [],
+        "url": "/2022/05/09/Maximilian-Becker.html",
+        "teaser": null
+      },{
+        "title": "Ivano Basile: Asymptotic safety and the swampland",
+        "excerpt":"We propose testing the paradigm of asymptotically safe gravity using swampland conjectures. As a first step in this direction, we explore the infrared regime of asymptotically safe gravity in a toy model, quadratic gravity at one loop. We identify the hypersurface spanned by the endpoints of asymptotically safe renormalization group...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2022/05/30/Ivano-Basile.html",
         "teaser": null
       }]
