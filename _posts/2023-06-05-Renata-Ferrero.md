@@ -1,7 +1,6 @@
 ---
 title: "Renata Ferrero: Geometrization of Renormalization Group Histories: a novel (A)dS/CFT emerging from Asymptotic Safety"
 published: "true"
-category: "future"
 ---
 
 We discuss the geometrization of entire evolution histories by means of a single, (d+1)-dimensional manifold furnished with a fixed (pseudo-) Riemannian structure. We propose a universal form of the higher-dimensional metric and discuss its properties. The non-degeneracy of the higher-dimensional metric is linked to a monotonicity requirement for the running of the cosmological constant, which we test in the case of Asymptotic Safety. 
