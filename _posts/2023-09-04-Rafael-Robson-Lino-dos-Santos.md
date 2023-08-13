@@ -1,0 +1,7 @@
+---
+title: "Rafael-Robson-Lino-dos-Santos: From quantum gravity to gravitational waves through cosmic strings"
+published: "true"
+category: "future"
+---
+
+I will talk about our latest paper whose abstract is: "New physics beyond the Standard Model can give rise to stochastic gravitational wave backgrounds, for example through cosmic strings. In this way, gravitational-wave searches with pulsar-timing arrays as well as existing and future laser interferometers may provide information on particle physics beyond the Standard Model. Here, we take one additional step and link particle physics beyond the Standard Model to quantum gravity. We investigate whether particle physics models that may give rise to cosmic strings can be embedded into an asymptotically safe theory of quantum gravity and matter. We focus on models where cosmic strings arise from U(1)-symmetry-breaking in an extended Yukawa-Abelian-Higgs sector that may be part of a dark sector. We find a negative answer for the simplest model that can give rise to cosmic strings and also find constraints on an extended model. We tentatively conclude that cosmic strings are difficult to accommodate in asymptotically safe models. This fits well with the latest 15-year dataset and search for new physics from the NANOGrav collaboration, which disfavors a stable-cosmic-string interpretation. In that sense, the recent data provide an indirect, albeit at present rather tentative, hint about the quantum theory of gravity."

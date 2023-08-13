@@ -1,7 +1,6 @@
 ---
 title: "Shouryya Ray: Suppression of proton decay in quantum gravity"
-published: "false"
-category: "future"
+published: "true"
 ---
 
-TBA
+The proton lifetime is technically a low-energy measurement, the proton's rest mass being only 1 GeV. However, it is also extraordinarily large: 21 orders of magnitude larger than the universe's lifetime. This makes the proton lifetime one of the few low-energy observables sensitive to near-Planckian physics. Already, GUT scenarios are non-trivially constrained by the need to fulfil proton decay bounds. In Quantum Gravity, the proton is likewise expected - at least within standard folklore - to be unstable. Given that the Quantum Gravity scale lies close to the GUT scale, and with improved proton lifetime bounds expected from next-generation detectors such as HyperK and JUNO, GUT-like constraints may hence soon become available for UV completions/extensions of General Relativity too. In this talk, I shall give an account of our study of how quantum gravity affects the proton's lifetime. We have in particular shown that spacetime fluctuations, if describable as a quantum field theory of the metric, actually lead to a suppression of proton decay. As a corollary, we find a significantly enlarged (infinite) proton lifetime if the Asymmptotic Safety scenario should furnish a UV extension (completion) of General Relativity. Time permitting, I shall further speculate what this means for a proton-decay-afflicted GUT - as opposed to the Standard Model, where the proton is comparatively safe - when coupled to Asymptotically Safe Quantum Gravity.
