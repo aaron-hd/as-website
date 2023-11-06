@@ -1,7 +1,6 @@
 ---
 title: "Yannick Kluth: Spectral Functions of Gauge Theories with Banks-Zaks Fixed Point"
 published: "true"
-category: "future"
 ---
 
 In this talk, we investigate spectral functions of matter-gauge theories that are asymptotically free in the ultraviolet and display a Banks-Zaks conformal fixed point in the infrared. Using perturbation theory, Callan-Symanzik resummations, and UV-IR connecting renormalization group trajectories, we analytically determine the gluon, quark, and ghost propagators in the entire complex momentum plane. At weak coupling, we find that a Källén-Lehmann spectral representation of propagators is achieved for all fields, and determine suitable ranges for gauge-fixing parameters. At strong coupling, a proliferation of complex conjugated branch cuts renders a causal representation impossible. We also derive relations for scaling exponents that determine the presence or absence of propagator nonanalyticities. Further results include spectral functions for all fields up to five loop order, bounds on the conformal window, and an algorithm to find running gauge coupling analytically at higher loops. Implications of these findings and extensions to other theories are discussed.
