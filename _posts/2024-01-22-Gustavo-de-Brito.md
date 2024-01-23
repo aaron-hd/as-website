@@ -1,7 +1,6 @@
 ---
 title: "Gustavo de Brito: Towards an interplay between causal sets and asymptotically safe quantum gravity"
 published: "true"
-category: "future"
 ---
 
 In this seminar, I will explore possible connections between the causal sets and asymptotic safety approaches to quantum gravity.
