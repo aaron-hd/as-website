@@ -1,0 +1,7 @@
+---
+title: "Yannick Kluth: Robustness of the derivative expansion in Asymptotic Safety"
+published: "true"
+category: "future"
+---
+
+We analyse the renormalisation group flow of quantum gravity at sixth order in the derivative expansion within the background field approximation. Non-linear field redefinitions are used to ensure that only essential couplings flow. Working within the universality class of General Relativity, with a vanishing cosmological constant, redundant couplings are fixed to their values at the Gaussian fixed point. This reduces the theory space to two dynamical essential couplings given by Newton's and the Goroff-Sagnotti coupling. Furthermore, it implements the condition that no extra degrees of freedom are present beyond those of General Relativity, in contrast to higher derivative theories and derivative expansions in a conventional renormalisation scheme. We find a unique ultraviolet fixed point with a single relevant direction and analyse the phase diagram of the theory. Our results suggest resilience of the gravitational Reuter fixed point under the inclusion of higher order curvature invariants and show several signs of near-perturbativity. The regulator dependence of our results is investigated in detail and shows that qualitative and quantitative features are robust to a large extent.
