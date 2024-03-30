@@ -19,7 +19,7 @@ feature_row:
 #    image_caption: "Thomas Frandsen/VILLUM FONDEN"
     alt: "placeholder image 1"
     title: "Astrid Eichhorn"
-    excerpt: "Astrid is an Associate Professor at CP3-Origins, University of Southern Denmark, Villum Young Investigator and Perimeter Institute Visiting Fellow. She works on building connections in quantum gravity: connections between quantum-gravity approaches, connections between fundamental theory and phenomenology, and connections between neighboring research communities. [more](https://www.cp3-origins.dk/people/eichhorn-astrid/)"
+    excerpt: "Astrid is a Professor at CP3-Origins, University of Southern Denmark, Villum Young Investigator and Perimeter Institute Visiting Fellow. She works on building connections in quantum gravity: connections between quantum-gravity approaches, connections between fundamental theory and phenomenology, and connections between neighboring research communities. [more](https://www.cp3-origins.dk/people/eichhorn-astrid/)"
   - image_path: /assets/images/aaron.png
     alt: "placeholder image 2"
     title: "Aaron Held"
