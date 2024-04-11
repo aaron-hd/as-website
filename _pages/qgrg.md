@@ -27,5 +27,5 @@ This workshop series therefore has two main goals: Firstly, it provides a platfo
 (organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig)
 (held online at [CP3 origins](https://www.cp3-origins.dk))
 * **2023:** [Quantum spacetime and the Renormalization Group](https://indico.imapp.ru.nl/event/127/)
-(organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig)
-
+(organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig, Gian Paolo Vacca, Luca Zambelli)
+(held at Sant'Elmo, Sardinia)
