@@ -26,3 +26,6 @@ This workshop series therefore has two main goals: Firstly, it provides a platfo
 * **2020:** [Quantum spacetime and the Renormalization Group](https://www.cp3-origins.dk/quantum-spacetime-and-the-renormalization-group/)
 (organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig)
 (held online at [CP3 origins](https://www.cp3-origins.dk))
+* **2023:** [Quantum spacetime and the Renormalization Group](https://indico.imapp.ru.nl/event/127/)
+(organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig)
+
