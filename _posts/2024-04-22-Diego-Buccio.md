@@ -1,7 +1,6 @@
 ---
 title: "Diego Buccio: Physical running of couplings in quadratic gravity"
 published: "true"
-category: "future"
 ---
 
 We argue that the well-known beta functions of quadratic gravity do not correspond to the
