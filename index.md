@@ -19,14 +19,14 @@ feature_row:
 #    image_caption: "Thomas Frandsen/VILLUM FONDEN"
     alt: "placeholder image 1"
     title: "Astrid Eichhorn"
-    excerpt: "Astrid is a Professor at CP3-Origins, University of Southern Denmark, Villum Young Investigator and Perimeter Institute Visiting Fellow. She works on building connections in quantum gravity: connections between quantum-gravity approaches, connections between fundamental theory and phenomenology, and connections between neighboring research communities. [more](https://www.cp3-origins.dk/people/eichhorn-astrid/)"
+    excerpt: "Astrid is Professor in Theoretical Physics at Heidelberg University. She works on quantum gravity and its phenomenology in particle physics, black holes and cosmology."
   - image_path: /assets/images/aaron.png
     alt: "placeholder image 2"
     title: "Aaron Held"
     excerpt: "Aaron works on phenomenological constraints in quantum and classical effective field theories of gravity. Currently, DAAD Prime Fellow at Jena University and The Princeton Gravity Initiative."
   - image_path: /assets/images/marc.png
     title: "Marc Schiffer"
-    excerpt: "Marc works on asymptotically safe gravity-matter systems using functional and lattice methods. Currently, Postdoctoral researcher at Perimeter Institute."
+    excerpt: "Marc works on asymptotically safe gravity-matter systems using functional and lattice methods. Currently, Postdoctoral researcher at Radboud University."
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -37,6 +37,6 @@ feature_row:
 
 <h1>The organizers</h1>
 
-If you are interested in attending the seminars and joining the community, please contact [Aaron Held](mailto:a.held@imperial.ac.uk) or [Marc Schiffer](mailto:mschiffer@perimeterinstitute.ca) to join the corresponding mailing list.
+If you are interested in attending the seminars and joining the community, please contact [Aaron Held](mailto:a.held@imperial.ac.uk) or [Marc Schiffer](mailto:marc.schiffer@ru.nl) to join the corresponding mailing list.
 
 {% include feature_row %}
