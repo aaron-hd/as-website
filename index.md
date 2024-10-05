@@ -37,6 +37,6 @@ feature_row:
 
 <h1>The organizers</h1>
 
-If you are interested in attending the seminars and joining the community, please contact [Aaron Held](mailto:a.held@imperial.ac.uk) or [Marc Schiffer](mailto:marc.schiffer@ru.nl) to join the corresponding mailing list.
+If you are interested in attending the seminars and joining the community, please contact [Aaron Held](mailto:aaron.held@phys.ens.fr) or [Marc Schiffer](mailto:marc.schiffer@ru.nl) to join the corresponding mailing list.
 
 {% include feature_row %}
