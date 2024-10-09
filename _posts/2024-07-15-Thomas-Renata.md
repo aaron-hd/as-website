@@ -1,7 +1,6 @@
 ---
 title: "Thomas Thiemann and Renata Ferrero: Asymptotically safe – canonical quantum gravity junction"
 published: "true"
-category: "future"
 ---
 
 The asymptotically safe (ASQG) and the canonical (CQG) approach to quantum gravity share to be both non-perturbative programmes. However, apart from that they have been developed to a large extent independently of each other. Our aim is to overcome actual differences, to explain why apparent differences are actually absent and to enhance the contact between the two communities.
