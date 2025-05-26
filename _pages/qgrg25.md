@@ -1,5 +1,5 @@
 ---
-permalink: /qgrg/
+permalink: /qgrg25/
 title: "Quantum Gravity and the Renormalization Group workshops"
 classes: wide
 ---
