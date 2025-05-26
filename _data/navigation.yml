@@ -7,6 +7,9 @@ main:
 #    url: /tags/
   - title: "QG & RG workshops"
     url: /qgrg/
+    children:
+    - title: "QGRG25"
+      url: /qgrg25/
   - title: "Related spaces"
     url: /related/
   - title: "About"
