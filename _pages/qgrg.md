@@ -30,5 +30,5 @@ This workshop series therefore has two main goals: Firstly, it provides a platfo
 (organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig, Gian Paolo Vacca, Luca Zambelli)
 (held at Sant'Elmo, Sardinia)
 * **2025:** [Quantum spacetime and the Renormalization Group](https://www.thphys.uni-heidelberg.de/~eichhorn/Workshop.html)
-(organized by Astrid Eichhorn, Alessia Platania)
+(organized by Astrid Eichhorn, Alessia Platania, Frank Saueressig)
 (held at IWH Heidelberg)
