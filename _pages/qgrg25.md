@@ -11,7 +11,7 @@ classes: wide
 
 [Diego Buccio: "Running couplings in Higher derivatives theories"](https://as-seminars.quantum-spacetime.net/assets/QSRG25_slides/Buccio.pdf)
 
-[Mariana Carrillo González: "Causal Effective Field Theories"](https://as-seminars.quantum-spacetime.net/assets/QSRG25_slides/CarilloGonzales.pdf)
+[Mariana Carrillo González: "Causal Effective Field Theories"](https://as-seminars.quantum-spacetime.net/assets/QSRG25_slides/CarrilloGonzales.pdf)
 
 [Edoardo D'Angelo : "Locally covariant Lorentzian renormalization group"](https://as-seminars.quantum-spacetime.net/assets/QSRG25_slides/DAngelo.pdf)
 
