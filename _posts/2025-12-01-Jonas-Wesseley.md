@@ -1,7 +1,6 @@
 ---
 title: "Jonas Wessely: Self-consistent graviton spectral function in Lorentzian quantum gravity"
 published: "true"
-category: "future"
 ---
 
 We present the first fully self-consistent computation of the graviton spectral function in (asymptotically safe) quantum gravity, using the spectral renormalisation group within a physical mass-shell renormalisation scheme. Self-consistency here means that the full non-perturbative spectral function, including the scattering continuum, is used in all diagrams. We begin by introducing the spectral functional renormalisation group (fRG) and discussing the properties of causal Callan–Symanzik flows, which enable the direct implementation of renormalisation conditions.
