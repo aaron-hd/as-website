@@ -1,5 +1,5 @@
 ---
-title: "Varun Amit Kher:  Matter Spectral Functions from Quantum Gravity"
+title: "Varun Kher:  Matter Spectral Functions from Quantum Gravity"
 published: "true"
 category: "future"
 ---
