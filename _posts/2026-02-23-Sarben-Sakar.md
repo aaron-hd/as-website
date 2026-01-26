@@ -1,6 +1,5 @@
 ---
-title: "Sarben Sarkar:  Towards theory constraints on ultralight dark matter
-from quantum gravity"
+title: "Sarben Sarkar:  The axion coupling could accelerate the Universe through PT-symmetric phases"
 published: "true"
 category: "future"
 ---
