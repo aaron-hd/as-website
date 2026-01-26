@@ -1,6 +1,5 @@
 ---
-title: "Francesco Del Porro:  Charting GLOBs in Asymptotically Safe Gravity
-from quantum gravity"
+title: "Francesco Del Porro:  Charting GLOBs in Asymptotically Safe Gravity"
 published: "true"
 category: "future"
 ---
