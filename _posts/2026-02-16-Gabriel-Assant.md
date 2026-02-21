@@ -2,7 +2,6 @@
 title: "Gabriel Assant:  Towards theory constraints on ultralight dark matter
 from quantum gravity"
 published: "true"
-category: "future"
 ---
 
 Ultralight scalar dark matter may couple to the Standard Model through
