@@ -1,7 +1,6 @@
 ---
 title: "Sarben Sarkar:  The axion coupling could accelerate the Universe through PT-symmetric phases"
 published: "true"
-category: "future"
 ---
 
 The conjecture by Mavromatos and Sarkar that a PT-symmetric phase plays a role in understanding singular renormalisation group (RG) flows for a Chern-Simons (CS) gauge theory of axions, has been reexamined and significantly improved.
