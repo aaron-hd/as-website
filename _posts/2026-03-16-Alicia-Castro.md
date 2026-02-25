@@ -1,0 +1,7 @@
+---
+title: "Alicia Castro: Towards a quantitative characterization of gravitational universality classes for order-4 random tensor models"
+published: "true"
+category: "future"
+---
+
+Random tensor models can be used as combinatorial devices to generate Euclidean dynamical triangulations. A physical continuum limit of dynamical triangulations requires a suitable generalization of the double-scaling limit of random matrices. This limit corresponds to a fixed point of a pregeometric Renormalization Group flow in which the tensor size N serves as the Renormalization Group scale. We search for corresponding fixed points in order-4 random tensor models associated to dynamical triangulations in 4 dimensions. In a O(N)^4 symmetric setting, we discuss the resulting phase portrait as a function of the regulator parameters. We optimize our results, identifying parameter values for which the results are minimally sensitive to parameter changes. We find three fixed-point candidates: only one of them is real across the entire parameter range, but only has two relevant directions. This should be contrasted with the university class of the Reuter fixed point in continuum quantum gravity, very likely characterized by three relevant directions. We conclude that simple combinatorial models of Euclidean triangulations and the Reuter fixed point most likely lie in different universality classes.
