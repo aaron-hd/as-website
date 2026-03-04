@@ -3,10 +3,10 @@ title: "Haridev S R:  RG studies of scalar-field models of long-range interactio
 published: "true"
 ---
 
-Abstract: In this work, we study long-range interactions in non-gravitational field theories and their behaviour in the deep infrared. To model such effects, we consider a nonlocal scalar theory obtained by adding a (\phi \Box^-1\phi) term to the local action. Using the functional renormalisation group, we analyse its infrared fixed-point structure.
+In this work, we investigate long-range interactions in non-gravitational field theories and their behaviour in the deep infrared regime. To model these effects, we consider a nonlocal scalar theory constructed by adding a (`\phi `{=tex}`\Box`{=tex}\^{-1}`\phi`{=tex}) term to the local action. Using the functional renormalisation group (FRG), we analyse the resulting infrared fixed-point structure.
 
-Within the LPA, we show that nonlocality modifies phase-transition patterns and can induce symmetry breaking. Extending the LPA beyond polynomial truncations, we examine the convexity property of the effective potential as k -> 0 and find that the flow becomes singular for \lambda^2 > 0 before reaching the deep infrared.
+Within the Local Potential Approximation (LPA), we demonstrate that nonlocality alters phase-transition patterns and can induce spontaneous symmetry breaking. Extending the LPA beyond polynomial truncations, we study the convexity properties of the effective potential in the limit (k `\rightarrow 0`{=tex}), finding that the renormalisation-group flow becomes singular for (`\lambda`{=tex}\^{2} \> 0) before reaching the deep infrared.
 
-In the LPA' framework we find that the infrared-stable fixed point is the nonlocal Gaussian fixed point. We then generalise the model to (\phi \Box^(\sigma/2) \phi) and analyse how the infrared properties depend on \sigma. With appropriate scaling choices, we show that the infrared behaviour remains unchanged up to \sigma = d/2 and follows Sak’s prediction up to \sigma = 2.
+Moving to the LPA′ framework, we identify the infrared-stable fixed point as the nonlocal Gaussian fixed point. We then generalise the model to include fractional kinetic terms of the form (`\phi `{=tex}`\Box`{=tex}\^{`\sigma`{=tex}/2} `\phi`{=tex}), and investigate how infrared properties depend on the parameter (`\sigma`{=tex}). With suitable scaling choices, we show that the infrared behaviour remains unchanged up to (`\sigma `{=tex}= d/2), and follows Sak's prediction up to (`\sigma `{=tex}= 2).
 
-Finally, we study higher-derivative cases within the LPA, focusing on \sigma = 4, which corresponds to isotropic Lifshitz criticality, and obtain results consistent with earlier work.
+Finally, we analyse higher-derivative cases within the LPA, focusing on (`\sigma `{=tex}= 4), corresponding to isotropic Lifshitz criticality, and obtain results consistent with earlier studies.
