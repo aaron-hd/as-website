@@ -1,7 +1,6 @@
 ---
 title: "Haridev S R:  RG studies of scalar-field models of long-range interactions"
 published: "true"
-category: "future"
 ---
 
 In this work, we study long-range interactions in non-gravitational field theories and their behaviour in the deep infrared. To model such effects, we consider a nonlocal scalar theory obtained by adding a \(\phi \Box^{-1} \phi\) term to the local action. Using the functional renormalisation group, we analyse its infrared fixed-point structure.
