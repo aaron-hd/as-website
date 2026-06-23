@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/aaron.png
     alt: "placeholder image 2"
     title: "Aaron Held"
-    excerpt: "Aaron works on phenomenological constraints in quantum and classical effective field theories of gravity. Currently, DAAD Prime Fellow at Jena University and The Princeton Gravity Initiative."
+    excerpt: "Aaron works on phenomenological constraints in quantum and classical effective field theories of gravity. Currently, Philippe Meyer Junior Research Chair at Ecole Normale Superieure in Paris."
   - image_path: /assets/images/marc.png
     title: "Marc Schiffer"
     excerpt: "Marc works on asymptotically safe gravity-matter systems using functional and lattice methods. Currently, Postdoctoral researcher at Radboud University."
