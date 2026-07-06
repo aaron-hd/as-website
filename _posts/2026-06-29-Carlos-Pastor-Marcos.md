@@ -1,7 +1,6 @@
 ---
 title: "Carlos Pastor Marcos: Cosmology from asymptotically safe Proca theories"
 published: "true"
-category: "future"
 ---
 
 Effective field theories for cosmology offer a powerful framework to investigate the dynamics of space--time and address longstanding open puzzles.
