@@ -1,5 +1,7 @@
 ---
 title: "Jan Kwapsiz: Asymptotic safety and Conformal Standard Model"
+robots: "noindex, nofollow"
+sitemap: false
 ---
 
 There are many proposals how to extend the Standard Model, designed to deal with its fundamental inconsistencies. Since no new particles have been detected experimentally so far, the models which add only one more scalar particle and possibly right-chiral neutrinos are favoured. One of them is the Conformal Standard Model, which proposes a coherent solution to the Standard Model drawbacks including the hierarchy problem and a dark matter candidate.

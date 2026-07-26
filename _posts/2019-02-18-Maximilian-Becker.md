@@ -1,5 +1,7 @@
 ---
 title: "Maximilian Becker: Geometric Operators in Asymptotic Safety"
+robots: "noindex, nofollow"
+sitemap: false
 ---
 
 We consider geometric operators, such as the geodesic length and the volume of hypersurfaces, in the context of the Asymptotic Safety scenario for quantum gravity.

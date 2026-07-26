@@ -1,5 +1,7 @@
 ---
 title: "Focus Seminar: Black Holes in Asymptotic Safety (Frank Saueressig & Aaron Held)"
+robots: "noindex, nofollow"
+sitemap: false
 ---
 
 Black holes are vital for a consistent description of gravitational wave events as well as the recent image of the Event Horizon Telescope. However, black holes also harbor a singularity and are thus theoretically incomplete.

@@ -1,6 +1,8 @@
 ---
 title: "Arthur Ferreira Vieira: The fate of chiral symmetry in Riemann-Cartan geometry"
 published: "true"
+robots: "noindex, nofollow"
+sitemap: false
 ---
 
 We study the mechanism of chiral symmetry breaking for fermionic systems in a gravitational

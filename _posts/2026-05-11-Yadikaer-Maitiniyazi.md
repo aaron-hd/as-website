@@ -1,6 +1,8 @@
 ---
 title: "Yadikaer Maitiniyazi: Scaling solutions for gauge invariant flow equations in dilaton quantum gravity"
 published: "true"
+robots: "noindex, nofollow"
+sitemap: false
 ---
 
 We investigate the effects of quantum gravity for models of a scalar singlet coupled to the metric.

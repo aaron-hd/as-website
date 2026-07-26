@@ -876,8 +876,434 @@ var store = [{
         "teaser": null
       },{
         "title": "Ivano Basile: Asymptotic safety and the swampland",
-        "excerpt":"We propose testing the paradigm of asymptotically safe gravity using swampland conjectures. As a first step in this direction, we explore the infrared regime of asymptotically safe gravity in a toy model, quadratic gravity at one loop. We identify the hypersurface spanned by the endpoints of asymptotically safe renormalization group...","categories": ["future"],
+        "excerpt":"We propose testing the paradigm of asymptotically safe gravity using swampland conjectures. As a first step in this direction, we explore the infrared regime of asymptotically safe gravity in a toy model, quadratic gravity at one loop. We identify the hypersurface spanned by the endpoints of asymptotically safe renormalization group...","categories": [],
         "tags": [],
-        "url": "/future/2022/05/30/Ivano-Basile.html",
+        "url": "/2022/05/30/Ivano-Basile.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: Safe essential scalar-tensor theories",
+        "excerpt":"We discuss the renormalisation group flow of all essential couplings of quantum gravity coupled to a shift-symmetric scalar field at fourth order in the derivative expansion. We derive the global structure of the phase diagram, and identify a bounded region in theory space which is both asymptotically safe in the...","categories": [],
+        "tags": [],
+        "url": "/2022/06/27/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Mathijs Fraaije: On the reconstruction problem in Quantum Gravity",
+        "excerpt":"Path integrals and the Wilsonian renormalization group provide two complementary computational tools for investigating continuum approaches to quantum gravity. The starting points of these constructions utilize a bare action and a fixed point of the renormalization group flow, respectively. While it is clear that there should be a connection between...","categories": [],
+        "tags": [],
+        "url": "/2022/09/12/Mathijs-Fraaije.html",
+        "teaser": null
+      },{
+        "title": "Álvaro Pastor Gutiérrez: UV completion of extradimensional Yang-Mills theory for Gauge-Higgs unification",
+        "excerpt":"The SU(N) Yang-Mills theory in ℝ4×S1 spacetime is studied as a simple toy model of Gauge-Higgs unification. The theory is perturbatively nonrenormalizable but could be formulated as an asymptotically safe theory, namely a nonperturbatively renormalizable theory. We study the fixed point structure of the Yang-Mills theory in ℝ4×S1 by using...","categories": [],
+        "tags": [],
+        "url": "/2022/10/17/Alvaro-Pastor-Gutierrez.html",
+        "teaser": null
+      },{
+        "title": "Yannick Kluth: Functional Renormalisation for f(Rμνρσ​) Quantum Gravity",
+        "excerpt":"We derive new functional renormalisation group flows for quantum gravity, in any dimension. The key new achievement is that the equations apply for any theory of gravity whose underlying Lagrangian f(Rμνρσ​) is a function of the Riemann tensor and the inverse metric. The results centrally exploit the benefits of maximally...","categories": [],
+        "tags": [],
+        "url": "/2022/10/24/Yannick-Kluth.html",
+        "teaser": null
+      },{
+        "title": "Enrico Sessolo: Naturally small Yukawa couplings from trans-Planckian asymptotic safety",
+        "excerpt":"In gauge-Yukawa systems embedded in the framework of trans-Planckian asymptotic safety we discuss the dynamical generation of arbitrarily small Yukawa couplings driven by the presence of a non-interactive infrared-attractive fixed point in the renormalization group flow. Additional ultraviolet-attractive fixed points guarantee that the theory remains well defined up to an...","categories": [],
+        "tags": [],
+        "url": "/2022/11/07/Enrico-Sessolo.html",
+        "teaser": null
+      },{
+        "title": "Alessia Platania: Causality, unitarity and stability in quantum gravity: a non-perturbative perspective",
+        "excerpt":"Resumming quantum fluctuations at the level of the gravitational path integral is expected to result in non-local effective actions and thus in a non-trivial momentum dependence of the propagator. Which properties the (dressed) graviton propagator has to satisfy and whether they can all be met are key open questions. In...","categories": [],
+        "tags": [],
+        "url": "/2022/11/14/Alessia-Platania.html",
+        "teaser": null
+      },{
+        "title": "Álvaro Pastor Gutiérrez: The Asymptotically Safe Standard Model: From quantum gravity to dynamical chiral symmetry breaking",
+        "excerpt":"We present a comprehensive non-perturbative study of the phase structure of the asymptotically safe Standard Model. The physics scales included range from the asymptotically safe trans-Planckian regime in the ultraviolet, the intermediate high-energy regime with electroweak symmetry breaking to strongly correlated QCD in the infrared. All flows are computed with...","categories": [],
+        "tags": [],
+        "url": "/2022/11/21/Alvaro-Pastor-Gutierrez.html",
+        "teaser": null
+      },{
+        "title": "Cristóbal Laporte: Evidence for a novel shift-symmetric universality class from the functional renormalization group",
+        "excerpt":"Wetterich’s equation provides a powerful tool for investigating the existence and universal properties of renormalization group fixed points exhibiting quantum scale invariance. Motivated by recent works on asymptotically safe scalar-tensor theories, we develop a novel approximation scheme which projects the functional renormalization group equation onto functions of the kinetic term....","categories": [],
+        "tags": [],
+        "url": "/2022/11/28/Christobal-Laporte.html",
+        "teaser": null
+      },{
+        "title": "Rafael Robson Lino dos Santos : Are there ALPs in the asymptotically safe landscape?",
+        "excerpt":"We investigate axion-like particles (ALPs) in the context of asymptotically safe gravity-matter systems. The ALP-photon interaction, which facilitates experimental searches for ALPs, is a dimension-5-operator. Quantum fluctuations of gravity lower its scaling dimension, and the ALP-photon coupling can become asymptotically free or even asymptotically safe. However, quantum fluctuations of gravity...","categories": [],
+        "tags": [],
+        "url": "/2023/03/06/Rafael-Robson-Lino-dos-Santos.html",
+        "teaser": null
+      },{
+        "title": "Johanna Borissova: Towards quantum black-hole dynamics inspired by asymptotic safety",
+        "excerpt":"We propose a new method to account for quantum-gravitational effects in cosmological and black hole spacetimes. At the core of our construction is the “decoupling mechanism”: when a physical infrared scale overcomes the effect of the regulator implementing the Wilsonian integration of fluctuating modes, the renormalization group flow of the...","categories": [],
+        "tags": [],
+        "url": "/2023/04/24/Johanna-Borissova.html",
+        "teaser": null
+      },{
+        "title": "Marc Schiffer: On the weak-gravity bound for a shift-symmetric scalar field",
+        "excerpt":"The weak-gravity bound has been discovered in several asymptotically safe gravity-matter systems. It limits the strength of gravitational fluctuations that are compatible with an ultraviolet-complete matter sector, and results from the collision of two partial fixed points of the matter system as a function of the strength of the gravitational...","categories": [],
+        "tags": [],
+        "url": "/2023/05/15/Marc-Schiffer.html",
+        "teaser": null
+      },{
+        "title": "Renata Ferrero: Geometrization of Renormalization Group Histories: a novel (A)dS/CFT emerging from Asymptotic Safety",
+        "excerpt":"We discuss the geometrization of entire evolution histories by means of a single, (d+1)-dimensional manifold furnished with a fixed (pseudo-) Riemannian structure. We propose a universal form of the higher-dimensional metric and discuss its properties. The non-degeneracy of the higher-dimensional metric is linked to a monotonicity requirement for the running...","categories": [],
+        "tags": [],
+        "url": "/2023/06/05/Renata-Ferrero.html",
+        "teaser": null
+      },{
+        "title": "Fabian Wagner: Shift-symmetric Horndeski gravity in the asymptotic-safety paradigm",
+        "excerpt":"Horndeski gravity is a popular contender for a phenomenological model of dynamical dark energy, and as such subject to observational constraints. My colleagues and I have asked ourselves whether Horndeski gravity can be more than a phenomenological model and instead become a fundamental theory, which extends towards high energy scales...","categories": [],
+        "tags": [],
+        "url": "/2023/06/12/Fabian-Wagner.html",
+        "teaser": null
+      },{
+        "title": "Chiang-Mei Chen: Phase Structure of Quantum Improved Black Holes in Asymptotically Safe Gravity",
+        "excerpt":"In this talk, I will discuss the quantum improvement of black hole solutions in the context of asymptotic safety. We propose that the consistency of the first law of thermodynamics is the principle that should determine physically sensible scale identification, at least close to the horizon. The quantum effect provides...","categories": [],
+        "tags": [],
+        "url": "/2023/06/19/Chiang-Mei-Chen.html",
+        "teaser": null
+      },{
+        "title": "Shouryya Ray: Suppression of proton decay in quantum gravity",
+        "excerpt":"The proton lifetime is technically a low-energy measurement, the proton’s rest mass being only 1 GeV. However, it is also extraordinarily large: 21 orders of magnitude larger than the universe’s lifetime. This makes the proton lifetime one of the few low-energy observables sensitive to near-Planckian physics. Already, GUT scenarios are...","categories": [],
+        "tags": [],
+        "url": "/2023/06/26/Shouryya-Ray.html",
+        "teaser": null
+      },{
+        "title": "Rafael-Robson-Lino-dos-Santos: From quantum gravity to gravitational waves through cosmic strings",
+        "excerpt":"I will talk about our latest paper whose abstract is: “New physics beyond the Standard Model can give rise to stochastic gravitational wave backgrounds, for example through cosmic strings. In this way, gravitational-wave searches with pulsar-timing arrays as well as existing and future laser interferometers may provide information on particle...","categories": [],
+        "tags": [],
+        "url": "/2023/09/11/Rafael-Robson-Lino-dos-Santos.html",
+        "teaser": null
+      },{
+        "title": "Diego Buccio: Amplitudes and Renormalization Group Techniques: A Case Study",
+        "excerpt":"We explore the properties of a simple renormalizable shift symmetric model with a higher deriva- tive kinetic energy and quartic derivative coupling, that can serve as a toy model for higher derivative theories of gravity. The scattering amplitude behaves as in a normal effective field theory below the threshold for...","categories": [],
+        "tags": [],
+        "url": "/2023/09/18/Diego-Buccio.html",
+        "teaser": null
+      },{
+        "title": "Yannick Kluth: Spectral Functions of Gauge Theories with Banks-Zaks Fixed Point",
+        "excerpt":"In this talk, we investigate spectral functions of matter-gauge theories that are asymptotically free in the ultraviolet and display a Banks-Zaks conformal fixed point in the infrared. Using perturbation theory, Callan-Symanzik resummations, and UV-IR connecting renormalization group trajectories, we analytically determine the gluon, quark, and ghost propagators in the entire...","categories": [],
+        "tags": [],
+        "url": "/2023/10/16/Yannick-Kluth.html",
+        "teaser": null
+      },{
+        "title": "Robert Shrock: Higher-Loop Studies of Beta Function Zeros in Infrared-Free Field Theories",
+        "excerpt":"We discuss higher-loop studies of beta functions and their zeros in various quantum field theories.\tWe focus mainly on infrared-free theories. Some calculational methods including Pad'e approximants will also be discussed.  ","categories": [],
+        "tags": [],
+        "url": "/2023/10/30/Robert-Shrock.html",
+        "teaser": null
+      },{
+        "title": "Andrzej Goerlich: Scalar fields in lattice quantum gravity",
+        "excerpt":"The Causal Dynamical Triangulations (CDT) model is a background-independent and diffeomorphism-invariant approach to quantum gravity that provides a lattice regularization of the formal gravitational path integral. The framework does not require a coordinate system, but uses only geometric invariants. We introduce coordinates via scalar fields with a target space whose...","categories": [],
+        "tags": [],
+        "url": "/2023/11/06/Andrzej-Goerlich.html",
+        "teaser": null
+      },{
+        "title": "Arthur Ferreira Vieira: The fate of chiral symmetry in Riemann-Cartan geometry",
+        "excerpt":"We study the mechanism of chiral symmetry breaking for fermionic systems in a gravitational background with curvature and torsion. The analysis is based on a scale-dependent effective potential derived from a bosonized version of the Nambu-Jona-Lasino model in a Riemann-Cartan background. We have investigated the fate of chiral symmetry in...","categories": [],
+        "tags": [],
+        "url": "/2023/11/13/Arthur-Ferreira-Vieira.html",
+        "teaser": null
+      },{
+        "title": "Jian Wang: Foliated asymptotically safe gravity in the fluctuation approach",
+        "excerpt":"The gravitational asymptotic safety program envisions a high-energy completion of gravity based on a non-Gaussian renormalization group fixed point. A key step in this program is the transition from Euclidean to Lorentzian signature spacetimes. One way to address this challenge is to formulate the quantum theory based on the Arnowitt-Deser-Misner...","categories": [],
+        "tags": [],
+        "url": "/2023/11/20/Jian-Wang.html",
+        "teaser": null
+      },{
+        "title": "Jan Tränkle: Effective action and black hole solutions in asymptotically safe quantum gravity",
+        "excerpt":"Exploring quantum corrections to black hole geometries might offer a unique opportunity for observationally testing the asymptotic safety scenario in quantum gravity. With this goal in mind, I will present our recent work on reconstructing the gravitational effective action and computing black hole solutions to the effective field equations. We...","categories": [],
+        "tags": [],
+        "url": "/2023/11/27/Jan-Traenkle.html",
+        "teaser": null
+      },{
+        "title": "Maria Conti: The conformal sector of Quantum Einstein Gravity beyond the local potential approximation",
+        "excerpt":"The seminar will revolve around the analysis of the conformal sector of Quantum Einstein Gravity with an improvement due to the study of the role of the anomalous dimension ‘eta’, which gets dynamically determined through the employment of the functional proper-time flow equation. In particular, the presence of the anomalous...","categories": [],
+        "tags": [],
+        "url": "/2023/12/04/Maria-Conti.html",
+        "teaser": null
+      },{
+        "title": "Antonio Panassiti: Dust collapse in Asymptotic Safety: a path to regular black holes",
+        "excerpt":"I will discuss how regular black hole spacetimes are obtained from an effective Lagrangian for Quantum Einstein Gravity. The interior matter is modeled as a dust fluid, which interacts with the geometry through a multiplicative coupling function. The specific form of this free function is deduced from Asymptotically Safe gravity,...","categories": [],
+        "tags": [],
+        "url": "/2023/12/11/Antonio-Panassiti.html",
+        "teaser": null
+      },{
+        "title": "Gustavo de Brito: Towards an interplay between causal sets and asymptotically safe quantum gravity",
+        "excerpt":"In this seminar, I will explore possible connections between the causal sets and asymptotic safety approaches to quantum gravity. In the first part of the seminar, I will discuss how to construct geometrical objects in causal sets. Motived by functional renormalization results on asymptotically safe quantum gravity, I will discuss...","categories": [],
+        "tags": [],
+        "url": "/2024/01/22/Gustavo-de-Brito.html",
+        "teaser": null
+      },{
+        "title": "Abhishek Chikkaballi: Naturally small neutrino mass with asymptotic safety and gravitational-wave signatures",
+        "excerpt":"We revisit the dynamical generation of an arbitrarily small neutrino Yukawa coupling in the Standard Model with trans-Planckian asymptotic safety and apply the same mechanism to the gauged B − L model. We show that thanks to the presence of additional irrelevant couplings, the described neutrino-mass generation in the B...","categories": [],
+        "tags": [],
+        "url": "/2024/01/29/Abhishek-Chikkaballi.html",
+        "teaser": null
+      },{
+        "title": "Edoardo D'Angelo: Asymptotic Safety in Lorentzian quantum gravity",
+        "excerpt":"Recently, together with Drago, Pinamonti, and Rejzner, I introduced a functional Renormalization Group (RG) equation to explore non-perturbative and covariant RG flows in Lorentzian spacetimes. The two key ingredients are the use of a local regulator, and a Hadamard-type point-splitting procedure, to regularise UV divergences in the flow. In this...","categories": [],
+        "tags": [],
+        "url": "/2024/02/05/Eduardo-DAngelo.html",
+        "teaser": null
+      },{
+        "title": "Shouryya Ray: Light fermions in colour: why the quark mass is not the Planck mass",
+        "excerpt":"We investigate whether quantum gravity fluctuations can break chiral symmetry for fermions that are charged under a U(1) and an SU(Nc) gauge symmetry, and thus closely resemble Standard-Model fermions. Unbroken chiral symmetry in the quantum-gravity regime is a necessary pre-requisite to recover the Standard Model from a joint gravity-matter theory;...","categories": [],
+        "tags": [],
+        "url": "/2024/02/12/Shouryya-Ray.html",
+        "teaser": null
+      },{
+        "title": "Johanna Borissova: Suppression of spacetime singularities in quantum gravity",
+        "excerpt":"Spacetime singularities as predicted by general relativity signal the breakdown of our classical description of gravity and are expected to be absent in a fundamental theory of quantum gravity. On this basis, we investigate the requirement of suppressing spacetime geometries with a curvature singularity via destructive interference in the Lorentzian...","categories": [],
+        "tags": [],
+        "url": "/2024/02/19/Johanna-Borissova.html",
+        "teaser": null
+      },{
+        "title": "Bilal Hawashin: The Nordic-walking mechanism and its explanation of deconfined pseudocriticality from Wess-Zumino-Witten theory",
+        "excerpt":"Many phase transitions can be understood as the spontaneous breaking of a global symmetry of the microscopic system. This is well captured within the framework initially developed by Landau, in which the extend of broken symmetry is quantified by an order parameter field. However, it is well established that not...","categories": [],
+        "tags": [],
+        "url": "/2024/02/26/Bilal-Hawashin.html",
+        "teaser": null
+      },{
+        "title": "Tim Morris: Ultraviolet finite resummation of perturbative quantum gravity",
+        "excerpt":"If the metric is chosen to depend exponentially on the conformal factor, and if one works in a gauge where the conformal factor has the wrong sign propagator, perturbative quantum gravity corrections can be partially resummed into a series of terms each of which is ultraviolet finite. These new terms...","categories": [],
+        "tags": [],
+        "url": "/2024/03/04/Tim-Morris.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: Momentum-dependent field redefinitions in Asymptotic Safety",
+        "excerpt":"We discuss general momentum-dependent field redefinitions in the context of quantum-gravitational scattering amplitudes in general, and Asymptotic Safety in particular. Implementing such redefinitions at the lowest curvature order, we can bring the graviton propagator into tree-level form, avoiding issues of fiducial ghost poles and their associated violations of unitarity. We...","categories": [],
+        "tags": [],
+        "url": "/2024/03/11/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Marta Picciau: Quantum field theories of relativistic Luttinger fermions",
+        "excerpt":"We have constructed relativistic versions of Luttinger fermions in analogy to effective low-energy degrees of freedom of non-relativistic solid-state systems. We propose to use these relativistic versions as fundamental degrees of freedom of interacting quantum field theories. Using the spin-base invariant formalism, we construct the corresponding Clifford algebra and the...","categories": [],
+        "tags": [],
+        "url": "/2024/03/18/Marta-Picciau.html",
+        "teaser": null
+      },{
+        "title": "Yannick Kluth: Robustness of the derivative expansion in Asymptotic Safety",
+        "excerpt":"We analyse the renormalisation group flow of quantum gravity at sixth order in the derivative expansion within the background field approximation. Non-linear field redefinitions are used to ensure that only essential couplings flow. Working within the universality class of General Relativity, with a vanishing cosmological constant, redundant couplings are fixed...","categories": [],
+        "tags": [],
+        "url": "/2024/03/25/Yannick-Kluth.html",
+        "teaser": null
+      },{
+        "title": "Agustín Silva: On harvesting physical predictions from asymptotically safe quantum field theories",
+        "excerpt":"Asymptotic safety is a powerful mechanism for obtaining a consistent and predictive quantum field theory beyond the realm of perturbation theory. It hinges on an interacting fixed point of the Wilsonian renormalization group flow which controls the microscopic dynamics. Connecting the fixed point to observations requires constructing the set of...","categories": [],
+        "tags": [],
+        "url": "/2024/04/08/Augustin-Silva.html",
+        "teaser": null
+      },{
+        "title": "Christof Wetterich: Field transformations in functional flow equations",
+        "excerpt":"Field transformations for the quantum effective action lead to different pictures of a given physical situation, as describing a given evolution of the universe by different geometries. Field transformations for functional flow equations can reveal important physical features, as the appearance of bound states. They also allow for technical simplifications....","categories": [],
+        "tags": [],
+        "url": "/2024/04/15/Christof-Wetterich.html",
+        "teaser": null
+      },{
+        "title": "Diego Buccio: Physical running of couplings in quadratic gravity",
+        "excerpt":"We argue that the well-known beta functions of quadratic gravity do not correspond to the physical dependence of scattering amplitudes on external momenta, and derive the correct physical beta functions. Asymptotic freedom turns out to be compatible with the absence of tachyons.  ","categories": [],
+        "tags": [],
+        "url": "/2024/04/22/Diego-Buccio.html",
+        "teaser": null
+      },{
+        "title": "Jian Wang: Global Flows of Foliated Gravity-Matter Systems",
+        "excerpt":"Asymptotic safety is a promising mechanism for obtaining a consistent and predictive quantum theory for gravity. The ADM formalism allows to introduce a (Euclidean) time-direction in this framework. It equips spacetime with a foliation structure by encoding the gravitational degrees of freedom in a lapse function, shift vector, and a...","categories": [],
+        "tags": [],
+        "url": "/2024/05/27/Jian-Wang.html",
+        "teaser": null
+      },{
+        "title": "Anna Tokareva: Background-induced complex mass states of graviton: quantization and tensor power spectrum",
+        "excerpt":"I start from the assumption that the theory of gravity can be formulated in terms of 4-dimensional action, and there are only 2 graviton polarization states, as in general relativity. It can be a non-perturbative effective action discussed in the asymptotic safety program or the result of some other UV...","categories": [],
+        "tags": [],
+        "url": "/2024/06/17/Anna-Tokareva.html",
+        "teaser": null
+      },{
+        "title": "Frank Saueressig: Almost-Gaussian Scaling in Asymptotic Safety – Yes? – No? - Maybe?",
+        "excerpt":"For more than a decade, we are used to the idea that evaluating Wetterich’s equation for polynomial f(R)-truncations yields 3 relevant directions. Moreover, the new directions opening up when increasing the order of the approximation become more and more irrelevant and essentially follow a canonical scaling behavior. The recent publication...","categories": [],
+        "tags": [],
+        "url": "/2024/07/08/Frank-Saueressig.html",
+        "teaser": null
+      },{
+        "title": "Thomas Thiemann and Renata Ferrero: Asymptotically safe – canonical quantum gravity junction",
+        "excerpt":"The asymptotically safe (ASQG) and the canonical (CQG) approach to quantum gravity share to be both non-perturbative programmes. However, apart from that they have been developed to a large extent independently of each other. Our aim is to overcome actual differences, to explain why apparent differences are actually absent and...","categories": [],
+        "tags": [],
+        "url": "/2024/07/15/Thomas-Renata.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: Unearthing the intersections: positivity bounds, weak gravity conjecture, and asymptotic safety landscapes from photon-graviton flows",
+        "excerpt":"We compute the asymptotic safety landscape stemming from ultraviolet-complete photon-graviton flows in a field theoretic setup, and we confront it with the weak gravity conjecture and, for the first time, with positivity bounds. At fourth order in derivatives, we find two gravitational fixed points providing viable ultraviolet completions for the...","categories": [],
+        "tags": [],
+        "url": "/2024/10/28/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Jan Ambjorn: Relating CDT and FRG",
+        "excerpt":"CDT is a lattice theory of quantum gravity. It is shown how to identify the IR and the UV limit of this lattice theory with similar FRG limits.  ","categories": [],
+        "tags": [],
+        "url": "/2024/11/11/Jan-Ambjorn.html",
+        "teaser": null
+      },{
+        "title": "Yannick Kluth: Fixed Points of Quantum Gravity from Dimensional Regularisation",
+        "excerpt":"We investigate β-functions of quantum gravity using dimensional regularisation. In contrast to minimal subtraction, a non-minimal renormalisation scheme is employed which is sensitive to power-law divergences from mass terms or dimensionful couplings. By construction, this setup respects global and gauge symmetries, including diffeomorphisms, and allows for systematic extensions to higher...","categories": [],
+        "tags": [],
+        "url": "/2024/11/18/Yannick-Kluth.html",
+        "teaser": null
+      },{
+        "title": "Johanna Borissova: Applications and prospects of Lorentzian path integrals in quantum gravity",
+        "excerpt":"Lorentzian path integrals exhibit profoundly different properties from Euclidean ones due to the oscillatory integrand which weighs different configurations through interference. Key troubles encountered in Euclidean quantum gravity are the conformal factor problem of Euclidean quantum GR and divergences due to spike configurations in Euclidean quantum Regge calculus. The first...","categories": [],
+        "tags": [],
+        "url": "/2025/01/20/Johanna-Borissova.html",
+        "teaser": null
+      },{
+        "title": "Francesco Ferrarin: Impact of quantum gravity on the UV sensitivity of extremal black holes",
+        "excerpt":"Recent work has revealed that extremal Kerr black holes may exhibit a sensitivity to higher-derivative corrections to Einstein’s equations, displaying singularities in the tidal forces at the horizon. However, in a purely gravitational context, this ‘‘ultraviolet sensitivity’’ translates into a strong dependence on the Wilson coefficients in the low-energy effective...","categories": [],
+        "tags": [],
+        "url": "/2025/11/03/Francesco_Ferrarin.html",
+        "teaser": null
+      },{
+        "title": "Manuel Reichert: Yukawa interactions in Quantum Gravity",
+        "excerpt":"We present the first complete next-to-leading-order analysis of a Yukawa system within the framework of asymptotically safe quantum gravity. Our results are obtained through a systematic resummation of higher-order operators, revealing two distinct resummation mechanisms – one of which has not been explored previously. In addition, we introduce a novel...","categories": [],
+        "tags": [],
+        "url": "/2025/11/10/Manuel_Reichert.html",
+        "teaser": null
+      },{
+        "title": "Zois Gyftopoulos: Quark and lepton mixing in the Asymptotic Safe Standard Model",
+        "excerpt":"In this talk, I will explore the phenomenological consequences of Quantum Scale symmetry in the matter sector of the Standard Model with Asymptotically Safe Quantum Gravity. In particular, trans-Planckian quantum scale symmetry in the matter sector induced by Asymptotically Safe Quantum Gravity, leaves an imprint on some of the Standard...","categories": [],
+        "tags": [],
+        "url": "/2025/11/24/Zois_Gyftopoulos.html",
+        "teaser": null
+      },{
+        "title": "Jonas Wessely: Self-consistent graviton spectral function in Lorentzian quantum gravity",
+        "excerpt":"We present the first fully self-consistent computation of the graviton spectral function in (asymptotically safe) quantum gravity, using the spectral renormalisation group within a physical mass-shell renormalisation scheme. Self-consistency here means that the full non-perturbative spectral function, including the scattering continuum, is used in all diagrams. We begin by introducing...","categories": [],
+        "tags": [],
+        "url": "/2025/12/01/Jonas-Wesseley.html",
+        "teaser": null
+      },{
+        "title": "Jose Padua-Arguelles: Non-Perturbative S-matrix Renormalization",
+        "excerpt":"I will present our recent proposal of a renormalization group flow equation for a functional that generates S-matrix elements and which captures similarities to the well-known Wetterich and Polchinski equations. While the latter ones respectively involve the effective action and Schwinger functional, which are genuine off-shell objects, the presented flow...","categories": [],
+        "tags": [],
+        "url": "/2025/12/08/Jose-Padua.html",
+        "teaser": null
+      },{
+        "title": "Axel Maas: Looking for geons",
+        "excerpt":"Geons are hypothetical objects from self-bound gravity quanta. They are potential candidates for dark matter, but could also be considered (quantum) black holes, and could be actually be constituents of macroscopical black holes. In this talk we will report on first, exploratory investigations of geons using causal dynamical triangulation simulations....","categories": [],
+        "tags": [],
+        "url": "/2025/12/15/Axel-Maas.html",
+        "teaser": null
+      },{
+        "title": "Varun Kher:  Matter Spectral Functions from Quantum Gravity",
+        "excerpt":"We present a Lorentzian quantum gravity study coupled to a template matter sector with gauge fields, scalars and fermions. Provided quantum gravity offers an asymptotically safe UV-completion, we determine the photon and scalar two-point functions in the presence of gravitational fluctuations, and show that both possess a Källén-Lehmann spectral representation....","categories": [],
+        "tags": [],
+        "url": "/2026/01/19/Varun-Kher.html",
+        "teaser": null
+      },{
+        "title": "Jesse van der Duin and Renate Loll:  Effective topology of quantum spacetime",
+        "excerpt":"According to long-standing folklore, spacetime at Planckian distances bears no resemblance to the spacetime of classical general relativity, but instead is some kind of “quantum foam”, due to strong quantum fluctuations. Turning this handwaving concept into physical theory requires a nonperturbative, quantitative modelling of quantum gravity and spacetime near the...","categories": [],
+        "tags": [],
+        "url": "/2026/01/26/Jesse-Renate.html",
+        "teaser": null
+      },{
+        "title": "Francesco Del Porro:  Charting GLOBs in Asymptotically Safe Gravity",
+        "excerpt":"Computing the gravitational effective action provides a direct route to charting the landscape of admissible black hole spacetimes and their alternatives, collectively called “gravitationally localized objects” (GLOBs). In this talk, I will provide a proof of principle of this idea within the framework of asymptotically safe gravity. Focusing on the...","categories": [],
+        "tags": [],
+        "url": "/2026/02/09/Francesco-del-Porro.html",
+        "teaser": null
+      },{
+        "title": "Gabriel Assant:  Towards theory constraints on ultralight dark matter from quantum gravity",
+        "excerpt":"Ultralight scalar dark matter may couple to the Standard Model through dimension-five operators that contain the field-strength tensors of the gauge interactions. Recent progress in nuclear clocks is projected to increase the sensitivity to such couplings by several orders of magnitude. Future experimental constraints may even have Planckscale sensitivity, calling...","categories": [],
+        "tags": [],
+        "url": "/2026/02/16/Gabriel-Assant.html",
+        "teaser": null
+      },{
+        "title": "Sarben Sarkar:  The axion coupling could accelerate the Universe through PT-symmetric phases",
+        "excerpt":"The conjecture by Mavromatos and Sarkar that a PT-symmetric phase plays a role in understanding singular renormalisation group (RG) flows for a Chern-Simons (CS) gauge theory of axions, has been reexamined and significantly improved. We have used the more complete Wetterich equation, which includes gravitational couplings in a systematic way...","categories": [],
+        "tags": [],
+        "url": "/2026/02/23/Sarben-Sakar.html",
+        "teaser": null
+      },{
+        "title": "Haridev S R:  RG studies of scalar-field models of long-range interactions",
+        "excerpt":"In this work, we study long-range interactions in non-gravitational field theories and their behaviour in the deep infrared. To model such effects, we consider a nonlocal scalar theory obtained by adding a (\\phi \\Box^{-1} \\phi) term to the local action. Using the functional renormalisation group, we analyse its infrared fixed-point...","categories": [],
+        "tags": [],
+        "url": "/2026/03/02/Haridev-SR.html",
+        "teaser": null
+      },{
+        "title": "Ivano Basile: Asymptotic safety, quantum gravity, and the swampland: a conceptual assessment",
+        "excerpt":"The swampland program attempts to elucidate and organize our understanding of quantum gravity from the bottom up. In light of its developments, I will present a conceptual assessment of the asymptotic safety scenario, collecting, connecting and revisiting several considerations scattered in the literature. The main upshot of the resulting arguments...","categories": [],
+        "tags": [],
+        "url": "/2026/03/09/Ivano-Basile.html",
+        "teaser": null
+      },{
+        "title": "Alicia Castro: Towards a quantitative characterization of gravitational universality classes for order-4 random tensor models",
+        "excerpt":"Random tensor models can be used as combinatorial devices to generate Euclidean dynamical triangulations. A physical continuum limit of dynamical triangulations requires a suitable generalization of the double-scaling limit of random matrices. This limit corresponds to a fixed point of a pregeometric Renormalization Group flow in which the tensor size...","categories": [],
+        "tags": [],
+        "url": "/2026/03/16/Alicia-Castro.html",
+        "teaser": null
+      },{
+        "title": "Emiliano Glaviano: Gravitationally Induced UV Completion of an O(N) Scalar Theory",
+        "excerpt":"We investigate the ultraviolet completion of an O(N) scalar field theory non-minimally coupled to gravity using the Wilsonian functional renormalization group in the proper-time formulation. Focusing on the spontaneously broken phase, we study the RG flow of the scalar potential and the non-minimal curvature coupling expanded around a running minimum....","categories": [],
+        "tags": [],
+        "url": "/2026/03/23/Emiliano-Glaviano.html",
+        "teaser": null
+      },{
+        "title": "Benjamin Knorr: Asymptotically (un)safe scattering amplitudes from scratch: a deep dive into the IR jungle",
+        "excerpt":"We compute leading order quantum gravity contributions to a simple scalar scattering amplitude in Asymptotic Safety. Our model admits an analytic treatment so that several subtleties can be analysed. We find that (i) the existence of an asymptotically safe renormalisation group fixed point alone does not imply the boundedness of...","categories": [],
+        "tags": [],
+        "url": "/2026/04/27/Benjamin-Knorr.html",
+        "teaser": null
+      },{
+        "title": "Sara Rufrano Aliberti: Asymptotic Safety in Generalized Proca Theories",
+        "excerpt":"Generalized Proca Theories are the most general higher-derivative extensions of a massive vector field that retain second-order equations of motion. They are phenomenologically interesting as models of dynamical dark energy that, unlike scalar-tensor theories, can naturally accommodate cosmological anisotropies. A key open question is whether such theories can be fundamental....","categories": [],
+        "tags": [],
+        "url": "/2026/05/04/Sara-Rufrano.html",
+        "teaser": null
+      },{
+        "title": "Yadikaer Maitiniyazi: Scaling solutions for gauge invariant flow equations in dilaton quantum gravity",
+        "excerpt":"We investigate the effects of quantum gravity for models of a scalar singlet coupled to the metric. Such models describe inflation for early cosmology and dynamical dark energy for late cosmology. We work within the “variable gravity approximation” keeping in the effective action an arbitrary field dependence for terms with...","categories": [],
+        "tags": [],
+        "url": "/2026/05/11/Yadikaer-Maitiniyazi.html",
+        "teaser": null
+      },{
+        "title": "Daniele Rizzo: Quantum gravity contributions to the gauge and Yukawa couplings in proper time flow",
+        "excerpt":"We derive quantum gravity contributions to the beta functions of the gauge and Yukawa couplings of a matter theory using the Schwinger proper-time flow equation. Working in the Einstein-Hilbert truncation, we investigate the gauge-fixing and regulator dependence of the corresponding renormalization group equations. We quantify the sensitivity of our results...","categories": [],
+        "tags": [],
+        "url": "/2026/06/01/Daniele-Rizzo.html",
+        "teaser": null
+      },{
+        "title": "Angelo P. Chiesa: Towards two-to-two scattering of scalars in asymptotically safe quantum gravity",
+        "excerpt":"We compute the graviton-mediated two-to-two scattering amplitude and cross section for scalar particles in asymptotically safe quantum gravity. Specifically, we compute the full momentum dependence of the scalar-graviton three-point scattering vertex for spacelike momenta with the functional renormalisation group. We also discuss the analytic continuation to the Minkowski branch, and...","categories": [],
+        "tags": [],
+        "url": "/2026/06/08/Angelo-Chiesa.html",
+        "teaser": null
+      },{
+        "title": "Diego Buccio: Scaling Solutions of Matter Form Factors in Asymptotically Safe Quantum Gravity",
+        "excerpt":"We investigate the renormalization group flow of a gravity–matter system in which a scalar field is minimally coupled to Einstein gravity and its kinetic term is given by a scale-dependent form factor fΛ(−□). Employing the Wilsonian proper-time flow equation, we derive a closed integro-differential equation that encodes the dependence of...","categories": [],
+        "tags": [],
+        "url": "/2026/06/15/Diego-Buccio.html",
+        "teaser": null
+      },{
+        "title": "Yannick Kluth: The perturbative Ricci flow in Gravity",
+        "excerpt":"We develop a perturbative formulation of the Ricci flow in gravity. Following steps analogous to the gradient flow in QCD, we supplement the usual Feynman rules for perturbative gravity by flowed propagators and vertices as well as graviton flow lines which describe the evolution of gravity along the Ricci flow....","categories": [],
+        "tags": [],
+        "url": "/2026/06/22/Yannick-Kluth.html",
+        "teaser": null
+      },{
+        "title": "Carlos Pastor Marcos: Cosmology from asymptotically safe Proca theories",
+        "excerpt":"Effective field theories for cosmology offer a powerful framework to investigate the dynamics of space–time and address longstanding open puzzles. In this work, we initiate a programme to analyse the ultraviolet completion of vector–tensor quantum field theories within the asymptotic safety paradigm, focusing on generalised Proca theories with a vector...","categories": [],
+        "tags": [],
+        "url": "/2026/06/29/Carlos-Pastor-Marcos.html",
+        "teaser": null
+      },{
+        "title": "Alfio Bonnano: Quantum Gravity Constraints on Fifth Forces",
+        "excerpt":"We investigate how ultraviolet (UV) completion in quantum gravity constrains possible fifth forces. In scalar–tensor theories, the radial mode of a broken O(N) scalar sector mediates a Yukawa correction to Newtonian gravity, characterized by a strength \\alpha_Y and a range \\lambda_Y. Using functional renormalization-group methods, we show that only a...","categories": [],
+        "tags": [],
+        "url": "/2026/07/06/Alfio-Bonnano.html",
+        "teaser": null
+      },{
+        "title": "Muxin Han: Ultraviolet Fixed Point in Covariant Loop Quantum Gravity",
+        "excerpt":"We investigate the ultraviolet behavior of 4-dimensional Lorentzian covariant Loop Quantum Gravity (LQG) and address the problem of infinite ambiguities relating to the triangulation dependence of spinfoam amplitudes. We consider the complete LQG amplitude that summing spinfoam amplitudes over 2-complexes. By introducing spin-network stacks and their covariant extension, spinfoam stacks,...","categories": ["future"],
+        "tags": [],
+        "url": "/future/2026/07/13/Muxin-Han.html",
         "teaser": null
       }]

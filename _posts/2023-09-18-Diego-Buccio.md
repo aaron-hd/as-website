@@ -1,6 +1,8 @@
 ---
 title: "Diego Buccio: Amplitudes and Renormalization Group Techniques: A Case Study"
 published: "true"
+robots: "noindex, nofollow"
+sitemap: false
 ---
 
 We explore the properties of a simple renormalizable shift symmetric model with a higher deriva-

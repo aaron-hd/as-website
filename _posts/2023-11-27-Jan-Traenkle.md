@@ -1,6 +1,8 @@
 ---
 title: "Jan Tränkle: Effective action and black hole solutions in asymptotically safe quantum gravity"
 published: "true"
+robots: "noindex, nofollow"
+sitemap: false
 ---
 
 Exploring quantum corrections to black hole geometries might offer a unique opportunity for observationally testing the asymptotic safety scenario in quantum gravity. With this goal in mind, I will present our recent work on reconstructing the gravitational effective action and computing black hole solutions to the effective field equations. 
